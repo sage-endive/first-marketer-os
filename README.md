@@ -1,4 +1,4 @@
-# marketing-os
+# first-marketer-os
 
 A portable marketing operating system for first marketers at B2B companies — from discovery to strategy to execution, without starting from scratch.
 
