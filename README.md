@@ -1,16 +1,18 @@
 # marketing-os
 
-A portable marketing operating system for first marketers at B2B companies — built to be used from day one, not after months of setup.
+A portable marketing operating system for first marketers at B2B companies — from discovery to strategy to execution, without starting from scratch.
 
 ---
 
 ## What this is
 
-Most first marketers spend their first 60–90 days rebuilding the same foundations from scratch: ICP docs, positioning frameworks, campaign systems, competitive intel. This repo is that foundation — pre-structured, battle-tested, and designed to be filled in with company-specific data rather than rebuilt every time.
+Most first marketers spend their first 60–90 days reviewing and rebuilding the foundations from scratch: ICP documentation, positioning frameworks, competitive intel, value propositions, and go-to-market playbooks. This repo is that foundation — pre-structured, battle-tested, and designed to focus your time on curating company-specific data rather than building the architecure.
 
-It works across teams. Marketing, sales, product, and engineering can all reference the same source of truth instead of working from different versions of the same deck.
+It works across teams. Marketing, sales, product, and engineering can all reference the same source of truth instead of working from different versions.
 
 It works across tools. The same markdown files power Claude.ai Projects (chat interface), Claude Code (agentic/automation), and GitHub (browser reading and editing). No duplication, no drift.
+
+**Other LLMs and tools** — The framework files are plain markdown and work with any AI tool that accepts context documents or system prompts: ChatGPT (Custom GPTs), Gemini, Cursor, and others. The files are optimised for Claude — `CLAUDE.md` is Claude Code-specific and the persona prompts are written for Claude's behaviour. Minor adjustments to instruction framing may be needed when using other models.
 
 ---
 
@@ -19,10 +21,10 @@ It works across tools. The same markdown files power Claude.ai Projects (chat in
 | Folder | What it contains | Who uses it |
 |---|---|---|
 | `/frameworks` | Reusable templates: ICP, positioning, campaigns, competitive intel, sales enablement | Everyone |
-| `/personas` | AI role prompts: CMO sparring partner, editor, commercial head, fact checker, coach | You (private) |
-| `/company-context` | One folder per company: the fill-in doc that makes everything else specific | You + team |
 | `/prompts` | Copy-paste Claude prompts for common tasks | Everyone |
 | `/guides` | How to use this system across different tools | Everyone |
+| `/company-context` | One folder per company: the fill-in doc that makes everything else specific | You + team |
+| `/personas` | AI role prompts: CMO sparring partner, editor, commercial head, fact checker, coach | You (private) |
 
 ---
 
