@@ -1,4 +1,4 @@
-# CLAUDE.md — Marketing OS
+# CLAUDE.md — First Marketer OS
 
 This file is read automatically by Claude Code at the start of every session in this repo. It tells you what this repo is, how it's structured, and how to behave when working with it.
 
