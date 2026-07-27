@@ -23,8 +23,8 @@ It works across tools. The same markdown files power Claude.ai Projects (chat in
 | `/frameworks` | Reusable templates: ICP, positioning, campaigns, competitive intel, sales enablement | Everyone |
 | `/prompts` | Copy-paste Claude prompts for common tasks | Everyone |
 | `/guides` | How to use this system across different tools | Everyone |
-| `/company-context` | One folder per company: the fill-in doc that makes everything else specific | You + team |
-| `/personas` | AI role prompts: CMO sparring partner, editor, commercial head, fact checker, coach | You (private) |
+| `/company-context` | One folder per company: the fill-in doc that makes everything else specific | First marketer + team |
+| `/personas` | AI role prompts: CMO sparring partner, editor, commercial head, fact checker, coach | First marketer (private) |
 
 ---
 
