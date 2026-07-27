@@ -4,6 +4,12 @@ A portable marketing operating system for first marketers at B2B companies — f
 
 ---
 
+## Who this is for
+
+Built by a serial first marketer, for first marketers. Originally created with a lens considering B2B SaaS/services and series A-C stage companies, where marketing is being built from scratch. It can be extended to reflect the realities of other environments, such as different industries, life stages, product portfolios, team maturities. Useful for anyone who has to move fast, work cross-functionally, and build systems that outlast them. 
+
+---
+
 ## What this is
 
 Most first marketers spend their first 60–90 days reviewing and rebuilding the foundations from scratch: ICP documentation, positioning frameworks, competitive intel, value propositions, and go-to-market playbooks. This repo is that foundation — pre-structured, battle-tested, and designed to focus your time on curating company-specific data rather than building the architecure.
@@ -31,7 +37,7 @@ It works across tools. The same markdown files power Claude.ai Projects (chat in
 ## How to get started at a new company
 
 1. Duplicate `/company-context/TEMPLATE.md` into `/company-context/[company-name]/context.md`
-2. Fill it in — takes 30–60 minutes, saves weeks
+2. Fill it in — bring together input from subject matter experts and research to build your foundation
 3. Open `/guides/how-to-use.md` and follow the surface that fits how you work
 4. Run the onboarding prompt in `/prompts/onboarding.md` to orient Claude to your company
 
@@ -55,10 +61,5 @@ If you fork this repo, your personas and company data will never accidentally be
 
 ---
 
-## Who this is for
-
-Built by a first marketer, for first marketers — typically joining B2B SaaS or energy/cleantech companies at Series A–C stage where marketing is being built from scratch. Useful for anyone who has to move fast, work cross-functionally, and build systems that outlast them.
-
----
 
 *This is a living system. Frameworks get updated as you learn. Use Git commit messages as your version log.*
