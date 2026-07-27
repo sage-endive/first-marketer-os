@@ -1,0 +1,38 @@
+# marketing-os .gitignore
+# This file defines what stays private when the repo goes public.
+# Everything listed here is excluded from public view.
+# The template.md files in /personas and /company-context ARE committed — they show structure without real data.
+
+# -----------------------------------------------
+# PERSONAS — private AI role definitions
+# The template.md is public. Everything else is not.
+# -----------------------------------------------
+/personas/*.md
+!/personas/template.md
+!/personas/README.md
+
+# The coach is permanently private — never public, ever.
+/personas/coach.md
+
+# -----------------------------------------------
+# COMPANY CONTEXT — all real company data is private
+# Only the template.md is public.
+# -----------------------------------------------
+/company-context/*/
+!/company-context/template.md
+!/company-context/README.md
+
+# -----------------------------------------------
+# WORKING NOTES — scratch files, drafts, research
+# -----------------------------------------------
+/notes/
+/drafts/
+*.scratch.md
+*.draft.md
+
+# -----------------------------------------------
+# SYSTEM
+# -----------------------------------------------
+.DS_Store
+.env
+*.log
