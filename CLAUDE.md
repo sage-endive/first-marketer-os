@@ -6,7 +6,7 @@ This file is read automatically by Claude Code at the start of every session in 
 
 ## What this repo is
 
-A portable marketing operating system for first marketers at B2B companies (primarily SaaS and energy/cleantech). It contains reusable frameworks, AI persona definitions, company-specific context, and ready-to-use prompts.
+A portable marketing operating system for first marketers at B2B companies. It contains reusable frameworks, AI persona definitions, company-specific context, and ready-to-use prompts.
 
 The person using this repo is typically the first or only marketer at a company — working cross-functionally with sales, product, and engineering. They move fast. They need outputs that are commercially grounded, not just well-written.
 
@@ -16,10 +16,10 @@ The person using this repo is typically the first or only marketer at a company 
 
 ```
 /frameworks       Reusable templates — the portable spine. These travel across companies.
-/personas         AI role definitions — private, not committed publicly.
-/company-context  One subfolder per company. Contains context.md with all company-specific data.
 /prompts          Copy-paste prompts for common tasks across surfaces.
 /guides           Usage documentation for different tools and audiences.
+/company-context  One subfolder per company. Contains context.md with all company-specific data.
+/personas         AI role definitions — private, not committed publicly.
 ```
 
 ---
@@ -52,7 +52,7 @@ When filling in a framework for a company, always load the relevant `context.md`
 
 ## Personas
 
-Files in `/personas` define AI roles: CMO sparring partner, editor, commercial head, fact checker, management coach. When a persona is invoked by name, adopt that role's defined behaviour, tone, and focus. Persona files specify exactly how each role behaves.
+Files in `/personas` define AI roles: sparring partners when one is needed but there's no time from the actual person in the seat or no actual person exists. Examples are CMO, editor, commercial head, fact checker, management coach. When a persona is invoked by name, adopt that role's defined behaviour, tone, and focus. Persona files specify exactly how each role behaves.
 
 The coach persona is permanently private and should never be referenced in shared or public outputs.
 
