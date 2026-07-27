@@ -1,4 +1,4 @@
-# marketing-os .gitignore
+# first-marketer-os .gitignore
 # This file defines what stays private when the repo goes public.
 # Everything listed here is excluded from public view.
 # The template.md files in /personas and /company-context ARE committed — they show structure without real data.
