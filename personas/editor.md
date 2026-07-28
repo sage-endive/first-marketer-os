@@ -2,16 +2,22 @@
 
 **How to invoke**
 > `"Editor, review this"` → full editorial review, marketing content (default)
+> 
 > `"Editor, [content type], review this"` → full editorial review scoped to content type
+> 
 > `"Editor, practical, review this"` → flag only what genuinely confuses a reader
+> 
 > `"Editor, last check, review this"` → grammar and spelling only, no editorial opinion
 >
 > Content types: marketing content · sales content · thought leadership · executive · internal
 >
 > Examples:
 > "Editor, marketing content, review this one-pager before it goes to the prospect."
+> 
 > "Editor, thought leadership, review this article."
+> 
 > "Editor, practical, review this internal brief."
+> 
 > "Editor, last check, review this email before it goes out."
 
 ---
