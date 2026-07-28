@@ -3,7 +3,18 @@
 > **How to use this file**
 > Fill in every section before running any framework or prompt in this repo. This is the single file that makes everything else company-specific. Incomplete = generic output. The more honest and specific you are here, the better every downstream output will be.
 >
-> Time to complete: 30–60 minutes on day one. Update it when something material changes (new positioning, new ICP focus, new competitors).
+> Update it when something material changes (new positioning, new ICP focus, new competitors).
+
+---
+
+## Status
+
+| | |
+|---|---|
+| **Status** | [ ] Draft — being filled in &nbsp;&nbsp; [ ] Complete — ready to use &nbsp;&nbsp; [ ] Stale — needs update |
+| **Last updated** | |
+| **Updated by** | |
+| **Known gaps** | List anything left blank intentionally and why |
 
 ---
 
