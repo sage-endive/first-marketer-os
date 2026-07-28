@@ -21,10 +21,15 @@
 ## The basics
 
 **Company name:**
+
 **Industry / sector:**
+
 **Company stage:** (e.g. Seed, Series A, Series B, bootstrapped, PE-backed)
+
 **Headcount (approx):**
+
 **Markets / geographies:**
+
 **Business model:** (e.g. SaaS subscription, usage-based, professional services, hardware + software)
 
 ---
