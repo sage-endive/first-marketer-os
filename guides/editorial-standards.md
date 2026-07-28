@@ -7,13 +7,6 @@
 
 ---
 
-**How to invoke:**
-- `"Editor, review this"` → company style guide (default — if no company style guide exists in the repo, AP Stylebook applies automatically)
-- `"Editor, AP style, review this"` → AP Stylebook, regardless of whether a company style guide exists
-- `"Editor, practical, review this"` → flag only what confuses a reader, ignore stylistic conventions
-
----
-
 ## Jargon rules
 
 ### Banned phrases
@@ -48,16 +41,6 @@ Personal grammar rules that apply regardless of style guide. These take priority
 
 ### AI-style prose
 Flag copy that is grammatically correct but says nothing specific. Characteristics: smooth transitions between vague claims, confident tone without evidence, sentences that could apply to any company in any industry. The fix is always specificity — a number, a named outcome, a concrete mechanism.
-
----
-
-## Review depth
-
-The Editor applies the company style guide by default. Review depth is controlled separately by invocation:
-
-- **Full review** (default) — apply all standards from this file and the company style guide. Flag everything.
-- **Practical** — flag only what genuinely confuses a reader. Ignore stylistic conventions that do not affect comprehension. Useful for internal content or early drafts.
-- **Last check** — grammar and spelling errors only. No editorial opinion. No style flags beyond clear errors.
 
 ---
 
