@@ -47,6 +47,15 @@ These phrases fail the "what does that actually mean?" test. Flag on sight and s
 ### AI-style prose
 Flag copy that is grammatically correct but says nothing specific. Characteristics: smooth transitions between vague claims, confident tone without evidence, sentences that could apply to any company in any industry. The fix is always specificity — a number, a named outcome, a concrete mechanism.
 
+### Grammar particularities
+Personal grammar rules that apply regardless of style guide. These take priority over AP and practical defaults.
+
+| Rule | Example of violation | Correct form |
+|---|---|---|
+| Avoid ending sentences with prepositions unless there is a clear, defensible reason for it. | "This is the platform we built it on." | "This is the platform on which we built it." |
+| Rarely use "to get" as there is usually a more active verb to use instead. | "The company got more insight from the data integration." | "The company gained clearer insights from the data." |
+
+> **This list grows over time.** Add new particularities as you notice them. Format: rule → example of violation → correct form.
 ---
 
 ## Craft standards
