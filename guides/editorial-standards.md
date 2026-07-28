@@ -7,14 +7,6 @@
 
 ---
 
-## Grammar hierarchy
-
-When reviewing any piece, apply grammar rules in this order:
-
-1. **Company style guide** — if one exists in the repo or is linked in `/company-context/[company-name]/context.md`, this is the primary authority. It always wins.
-2. **AP Stylebook** — fallback when no company style guide exists, or for rules the company guide does not cover.
-3. **Practical** — default when neither is specified. Flag only what confuses a reader. Ignore stylistic conventions that do not affect comprehension.
-
 **How to invoke:**
 - `"Editor, review this"` → company style guide (default — if no company style guide exists in the repo, AP Stylebook applies automatically)
 - `"Editor, AP style, review this"` → AP Stylebook, regardless of whether a company style guide exists
