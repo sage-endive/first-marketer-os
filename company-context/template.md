@@ -87,8 +87,11 @@
 > Full positioning detail lives in `/frameworks/positioning.md` populated for this company. This section is a quick-reference summary.
 
 **Category we compete in (or are creating):**
+
 **Primary differentiation (what we do that others don't or can't):**
+
 **The one thing we want to be known for:**
+
 **Proof points (3 max — specific, not vague):**
 
 ---
@@ -98,8 +101,11 @@
 > Full competitive detail lives in `/frameworks/competitive-intel.md` populated for this company.
 
 **Primary competitors (named):**
+
 **How we typically win against them:**
+
 **How we typically lose:**
+
 **The comparison we want to avoid (and why):**
 
 ---
@@ -107,9 +113,13 @@
 ## Tone of voice
 
 **3 words that describe how we communicate:**
+
 **3 words that describe how we do NOT communicate:**
+
 **Writing style notes:** (e.g. short sentences, no jargon, data-led, conversational, formal)
+
 **Things we never say or do in copy:**
+
 **Reference examples of communication we like (internal or external):**
 
 ---
@@ -117,9 +127,13 @@
 ## Commercial context
 
 **Current marketing priorities (this quarter):**
+
 **Key metrics marketing owns:**
+
 **Budget context (rough — enough for Claude to sanity-check ROI framing):**
+
 **Relationship with sales:** (e.g. integrated, siloed, building trust, strong alignment)
+
 **What the CEO/board cares about most right now:**
 
 ---
