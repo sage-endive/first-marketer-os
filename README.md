@@ -24,7 +24,7 @@ It works across tools. The same markdown files power Claude.ai Projects (chat in
 | `/prompts` | Copy-paste Claude prompts for common tasks | Everyone |
 | `/guides` | How to use this system across different tools | Everyone |
 | `/company-context` | One folder per company: the fill-in doc that makes everything else specific | First marketer + team |
-| `/personas` | AI role prompts: CMO sparring partner, editor, commercial head, fact checker, coach | First marketer (private) |
+| `/personas` | AI role prompts: these are your sparring partners, such as commercial head, editor, fact checker, finance director | First marketer (private) |
 
 ---
 
@@ -57,7 +57,7 @@ If you fork this repo, your personas and company data will never accidentally be
 
 ## Who this is for
 
-Built by a serial first marketer, for first marketers. Originally created with a lens considering B2B SaaS/services and series A-C stage companies, where marketing is being built from scratch. It can be extended to reflect the realities of other environments, such as different industries, life stages, product portfolios, team maturities. Useful for anyone who has to move fast, work cross-functionally, and build systems that outlast them.
+Built by a serial first marketer, for first marketers. Originally created with a lens considering B2B SaaS/services and series A-C stage companies, where marketing is being built from scratch. It can be extended to reflect the realities of other environments, such as different industries, life stages, product portfolios, team maturities, experience profiles. Useful for anyone who has to move fast, work cross-functionally, and build systems that outlast them.
 
 ---
 
