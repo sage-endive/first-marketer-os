@@ -1,12 +1,9 @@
 # Style Guide — [Company Name]
 
 > **What this file is**
-> The company-specific style guide for [Company Name]. Referenced automatically
-> by the Editor persona as the primary grammar and style authority.
+> The company-specific style guide for [Company Name]. Referenced automatically by the Editor persona as the primary grammar and style authority.
 >
-> Fill in the sections relevant to your company. Leave blank what does not apply
-> yet — an incomplete style guide is better than no style guide. Add to it over
-> time as preferences and standards become clear.
+> Fill in the sections relevant to your company. Leave blank what does not apply yet — an incomplete style guide is better than no style guide. Add to it over time as preferences and standards become clear.
 >
 > **Where to save your completed version:**
 > Save as `guides/style-guide-[company-name].md` so the Editor can find it.
@@ -16,25 +13,17 @@
 ## Language and locale
 
 **Primary language:** (e.g. English, Dutch, French, German)
-**Locale/variant:** (e.g. British English, American English, Belgian French)
+**Locale/variant:** (e.g. British English, Belgian French)
 **Secondary languages:** (list any other languages content is produced in)
 
-**For English variants — key differences to apply:**
-- British English: -ise not -ize, -our not -or, punctuation outside quotation marks, 
-  day-month-year date format
-- American English: -ize, -or, punctuation inside quotation marks, month-day-year date format
-- Australian English: follows British conventions with some local exceptions
-
-**For non-English content:**
-Specify the style reference for each language:
-- French: (e.g. Le Petit Robert, Le Monde house style)
-- German: (e.g. Duden)
-- Dutch: (e.g. Genootschap Onze Taal)
-- Other: [specify]
+**Formality register:**
+- For English: British English is the default for all English content
+- For Dutch: Use je/jij / Use u / Follow context (specify):
+- For German: Always Sie / Always Du / Other (specify):
+- For other languages: (specify per language if needed)
 
 **Translation and localisation note:**
-If content is translated from another language, flag here whether the Editor
-should apply the target language style guide or the source language guide.
+If content is translated from another language, specify here whether the Editor should apply the target language standards or the source language standards.
 
 ---
 
@@ -66,13 +55,8 @@ Tone can shift by context while voice stays consistent. Define your defaults:
 | Internal | | e.g. direct, functional, no polish required |
 | Social media | | e.g. conversational, specific, no jargon |
 
-### Formality register
-**Default formality level:** (e.g. professional but approachable / formal / conversational)
-**For Dutch content:** Use je/jij / Use u / Follow context (specify):
-**For German content:** Always Sie / Other (specify):
-**For other languages:** (specify per language if needed)
-
 ### Tone guardrails
+
 Things we never do regardless of context:
 -
 -
@@ -88,9 +72,9 @@ Things we always do regardless of context:
 ## Grammar and mechanics
 
 **Oxford comma:** Use / Do not use
-**Numbers:** Spell out numbers below / Use numerals below [threshold]
+**Numbers:** Spell out numbers below [threshold] / Use numerals below [threshold]
 **Capitalisation of product/feature names:**
-**Date format:** (e.g. 1 April 2026 / April 1, 2026)
+**Date format:** (e.g. 1 April 2026)
 **Time format:** (e.g. 9am / 9:00 AM)
 **Abbreviations:** Spell out on first use / Always spell out / Always abbreviate
 
@@ -128,8 +112,7 @@ Words and phrases we never use:
 | | | |
 | | | |
 
-> Note: The Editor persona also maintains a global banned phrases list in
-> `guides/editorial-standards.md`. Company-specific additions go here.
+> Note: The Editor persona also maintains a global banned phrases list in `guides/editorial-standards.md`. Company-specific additions go here.
 
 ---
 
@@ -138,4 +121,32 @@ Words and phrases we never use:
 **Company name:** Always written as:
 **Product name(s):** Always written as:
 **Never abbreviated as:**
-**Trademark or registration symbols required:** Yes / No — if yes, on
+**Trademark or registration symbols required:** Yes / No — if yes, on first use only / always
+
+---
+
+## Audience assumptions
+
+**Primary audience for external content:**
+**What they know — do not explain:**
+**What they do not know — always explain:**
+**Tone shift for technical vs. non-technical audiences:**
+
+---
+
+## Channel-specific notes
+
+> Add notes here for channels where your style differs from the default.
+> For full content sub-type rules, see `guides/editorial-standards.md`.
+
+**LinkedIn:**
+**Email:**
+**Website:**
+**Other:**
+
+---
+
+*Part of: first-marketer-os*
+*Referenced by: `personas/editor.md`*
+*Update trigger: brand or voice evolution, new channel standards, new product names*
+*Last updated: [date] by [name]*
