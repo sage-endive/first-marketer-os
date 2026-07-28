@@ -116,11 +116,7 @@
 
 **3 words that describe how we do NOT communicate:**
 
-**Writing style notes:** (e.g. short sentences, no jargon, data-led, conversational, formal)
-
 **Things we never say or do in copy:**
-
-**Reference examples of communication we like (internal or external):**
 
 ---
 
