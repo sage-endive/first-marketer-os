@@ -38,7 +38,7 @@ should apply the target language style guide or the source language guide.
 
 ---
 
-## Voice and tone
+## Voice, tone and style
 
 **Three words that describe how we communicate:**
 -
@@ -53,6 +53,35 @@ should apply the target language style guide or the source language guide.
 **The publication or communicator whose style we admire (and why):**
 
 **The publication or communicator whose style we want to avoid (and why):**
+
+### Tone by context
+Tone can shift by context while voice stays consistent. Define your defaults:
+
+| Context | Tone | Notes |
+|---|---|---|
+| External marketing | | e.g. confident, clear, commercially grounded |
+| Sales content | | e.g. direct, prospect-focused, no filler |
+| Thought leadership | | e.g. authoritative, point of view, no hedging |
+| Executive/board | | e.g. measured, precise, conclusions first |
+| Internal | | e.g. direct, functional, no polish required |
+| Social media | | e.g. conversational, specific, no jargon |
+
+### Formality register
+**Default formality level:** (e.g. professional but approachable / formal / conversational)
+**For Dutch content:** Use je/jij / Use u / Follow context (specify):
+**For German content:** Always Sie / Other (specify):
+**For other languages:** (specify per language if needed)
+
+### Tone guardrails
+Things we never do regardless of context:
+-
+-
+-
+
+Things we always do regardless of context:
+-
+-
+-
 
 ---
 
