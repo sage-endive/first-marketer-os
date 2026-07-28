@@ -49,10 +49,15 @@
 ## Go-to-market motion
 
 **Primary GTM motion:** (e.g. inbound, outbound, PLG, channel/partner, enterprise direct)
+
 **Average deal size:**
+
 **Sales cycle length:**
+
 **Primary buyer:** (title, seniority)
+
 **Key stakeholders involved in a deal:**
+
 **How deals typically start:** (e.g. inbound demo request, SDR outbound, referral, conference)
 
 ---
