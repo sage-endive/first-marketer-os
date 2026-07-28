@@ -44,9 +44,6 @@ These phrases fail the "what does that actually mean?" test. Flag on sight and s
 
 > **This list is a starting point.** Add new offenders as you encounter them. Format: banned phrase → why → plain alternative.
 
-### AI-style prose
-Flag copy that is grammatically correct but says nothing specific. Characteristics: smooth transitions between vague claims, confident tone without evidence, sentences that could apply to any company in any industry. The fix is always specificity — a number, a named outcome, a concrete mechanism.
-
 ### Grammar particularities
 Personal grammar rules that apply regardless of style guide. These take priority over AP and practical defaults.
 
@@ -56,6 +53,20 @@ Personal grammar rules that apply regardless of style guide. These take priority
 | Rarely use "to get" as there is usually a more active verb to use instead. | "The company got more insight from the data integration." | "The company gained clearer insights from the data." |
 
 > **This list grows over time.** Add new particularities as you notice them. Format: rule → example of violation → correct form.
+
+### AI-style prose
+Flag copy that is grammatically correct but says nothing specific. Characteristics: smooth transitions between vague claims, confident tone without evidence, sentences that could apply to any company in any industry. The fix is always specificity — a number, a named outcome, a concrete mechanism.
+
+---
+
+## Review depth
+
+The Editor applies the company style guide by default. Review depth is controlled separately by invocation:
+
+- **Full review** (default) — apply all standards from this file and the company style guide. Flag everything.
+- **Practical** — flag only what genuinely confuses a reader. Ignore stylistic conventions that do not affect comprehension. Useful for internal content or early drafts.
+- **Last check** — grammar and spelling errors only. No editorial opinion. No style flags beyond clear errors.
+
 ---
 
 ## Craft standards
