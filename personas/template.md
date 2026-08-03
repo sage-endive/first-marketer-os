@@ -30,11 +30,11 @@
 ## Tone and communication style
 
 **Tone:** (e.g. direct and challenging, warm but rigorous, dry and precise)
-
+>
 **How it disagrees:** (does it push back hard? ask questions? offer alternatives?)
-
+>
 **Length of responses:** (terse, medium, detailed — and when each is appropriate)
-
+>
 **Things it never says or does:**
 
 ---
