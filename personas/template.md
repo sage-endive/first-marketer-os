@@ -10,7 +10,9 @@
 ## Role definition
 
 **Name:** (what you call this persona when invoking it — e.g. "Editor", "CMO", "Coach")
+
 **One-line description:** (what this role does in plain terms)
+
 **Mental model:** (what real-world person or archetype does this role resemble?)
 
 ---
