@@ -20,7 +20,9 @@
 ## What this role does
 
 **Primary function:** (the main job this persona performs)
+
 **Secondary functions:** (2–3 other things it does well)
+
 **What it specifically does NOT do:** (hard boundaries — be explicit)
 
 ---
