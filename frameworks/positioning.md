@@ -1,7 +1,7 @@
 # Positioning & Messaging Framework
 
 > **How to use this file**
-> This framework has two parts: the reusable structure and a fictional example of EVCHARGESAAS. Use the EVCHARGESAAS example as a reference for the depth and honesty to aim for. When applying to a new company, duplicate the structure and populate from your company context doc.
+> This framework has two parts: the reusable structure and a fictional example of EVCHARGESAAS. Use the example as a reference for the depth and honesty to aim for. When applying to a new company, duplicate the structure and populate from your company context doc.
 >
 > Positioning is not a tagline exercise. It is a strategic decision about who you are for, what you are, and why that matters — made before any copy is written.
 
