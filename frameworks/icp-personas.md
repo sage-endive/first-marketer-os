@@ -1,7 +1,7 @@
 # ICP & Persona Framework
 
 > **How to use this file**
-> This framework has two parts: the reusable structure (headers, fields, logic) and a worked example populated from EVCHARGESAAS — a B2B SaaS company in the EV charging space. When applying this to a new company, duplicate the structure, swap in your company context, and use the EVCHARGESAAS example as a reference for the level of specificity to aim for.
+> This framework has two parts: the reusable structure (headers, fields, logic) and an example of EVCHARGESAAS, a fictional B2B SaaS company in the EV charging space. When applying this to a new company, duplicate the structure, swap in your company context, and use the example as a reference for the level of specificity to aim for.
 >
 > The goal is not to describe every possible customer. It's to describe the customers where you win, get value, and grow — and to be honest about who you don't.
 
@@ -12,7 +12,7 @@
 | | |
 |---|---|
 | **Status** | Hypothesis — not yet workshopped or validated |
-| **Source** | Single experienced marketer brain dump (EVCHARGESAAS) |
+| **Source** | Single marketer research and experience |
 | **Confidence** | High on segment patterns and thresholds · Medium on org dynamics · Lower on eMSP personal stakes |
 | **Next step to validate** | Stakeholder workshop with sales, CS, and senior leadership · Win/loss interview review |
 | **Do not treat as gospel** | These are informed starting points, not confirmed facts. Test assertions in discovery. Update when the market tells you something different. |
@@ -30,9 +30,19 @@ The single most important qualification question is not size, segment, or budget
 > *"Do you already have enterprise systems — CRM, invoicing, ERP — that you'd connect to us via API? Or are you looking for a platform to handle those functions too?"*
 
 **API integrator** = good fit. They have infrastructure. You plug in as the specialist layer.
+
 **Full-stack seeker** = structural mismatch. No commercial creativity fixes a product gap of this kind. Deals that die on "we need feature X" are usually mis-qualified on this dimension from the start.
 
 Apply this question in discovery session one, across every segment.
+
+---
+
+## Geographic fit: Europe-primary
+
+The ICP must be based and operating primarily in Europe. Non-European subsidiaries of European companies are in scope, but standalone non-European companies are not, regardless of how well they fit the segment and trigger criteria otherwise.
+
+**In scope** European headquartered companies · subsidiaries of European parents operating outside Europe
+**Out of scope** Non-European companies with no European parent, even if segment fit is strong
 
 ---
 
@@ -40,9 +50,10 @@ Apply this question in discovery session one, across every segment.
 
 | Segment | Who they are | Core trigger | Threshold |
 |---|---|---|---|
-| **Utilities** | National-scale energy incumbents | Strategic energy transition commitment | Top 1–3 in country by customer base |
+| **Utilities** | National-scale energy incumbents | Strategic energy transition commitment | Top 1–5 in country by customer base |
+| **Oil/Gas & Retail Fuel** | Majors and others with significant retail fuel presence | Anticipated ICE-to-EV revenue loss (defensive) | 200+ retail sites in a single country, or top-5 national market position |
 | **CPOs** | Pure-play charge point operators | Operational scalability wall + investor pressure | 500+ charge points in network |
-| **eMSPs** | E-mobility service providers | EV charging as product extension | 25,000+ subscribers with existing CRM/invoicing |
+| **eMSPs** | E-mobility service providers | EV charging as product extension | 25,000+ subscribers |
 
 ---
 
@@ -50,7 +61,7 @@ Apply this question in discovery session one, across every segment.
 
 ### Who they are
 
-The dominant energy provider in their home market — typically one of the top 1–3 utilities by customer base in a given country, serving millions of consumers, with revenue in the billions. They may have a secondary presence in a neighbouring country as a smaller provider.
+The dominant energy provider in their home market — typically one of the top 1–5 utilities by customer base in a given country, serving millions of consumers, with revenue in the billions. They may have a secondary presence in a neighbouring country as a smaller provider.
 
 At this scale and maturity, they are generally already committed to EV charging infrastructure. They are typically not evaluating *whether* to do it — they are deciding *how* and *with whom*. EV charging tends to be a supplemental and complementary product alongside their core utility services, built into long-term capital investment plans.
 
@@ -92,7 +103,48 @@ Financial risk management on roaming settlements tends to resonate well at this 
 
 ---
 
-## Segment 2: Pure-Play Charge Point Operators (CPOs)
+## Segment 4: Oil/Gas Majors & Retail Fuel Operators
+
+### Who they are
+
+Oil and gas majors and other companies with a significant retail gasoline/fuel presence — the qualifying trait is retail fuel exposure, not strictly "oil major" as an industry label. This includes integrated majors (Shell, TotalEnergies, BP) as well as other fuel retail operators with a comparable forecourt business, provided they meet the Europe-primary geography filter.
+
+**Proposed threshold:** 200+ retail fuel sites in a single European country, OR a top-5 national market position by site count — whichever is met first. This captures both large national incumbents and multinational majors' European operations, while excluding small independent chains unlikely to have EV charging as a real initiative yet.
+
+Unlike utilities, this segment does not move from strategic conviction. Engagement is inconsistent — companies enter and exit EV charging initiatives, scale up and pull back (as seen with both BP's and Shell's charging ventures at various points). Treat commitment as provisional until proven otherwise, even with a signed deal.
+
+### Organisational profile
+
+**Where EV charging sits:** Varies by company, similar to utilities — sometimes a dedicated new-energy or mobility division with its own budget and mandate, sometimes still folded into the legacy retail/downstream business unit. If EV charging still sits inside legacy retail with no dedicated division, treat as earlier-stage and slower-moving than the company's public positioning might suggest.
+
+**Primary champion:** Typically the head of the new-energy/mobility division where one exists, or a senior retail/downstream leader where it doesn't. Budget authority and mandate stability vary accordingly — a dedicated division head is a stronger, more durable champion than someone running EV charging as a side initiative within core fuel retail.
+
+**Deal influencers:**
+- Core retail/downstream leadership: may see EV charging as a distraction from or a threat to the core fuel retail business, particularly if forecourt space or capital is being reallocated. Can slow a deal even when the mobility division is enthusiastic.
+- CEO/CFO: strategic reallocation decisions — the kind that cause the in-and-out pattern — tend to be made or approved at this level. Watch for signals here more than anywhere else in the org.
+- Investor relations/public strategy teams: increasingly influential, since EV commitments are often publicly stated and then walked back — internal deal momentum can be disconnected from public messaging.
+
+**A useful qualifying question:** *"Where does EV charging sit in your org today, and has that changed in the last 18 months?"* The second half of the question matters more here than in other segments — org placement is less stable than with utilities.
+
+### Buying trigger
+
+Defensive, not aspirational. The trigger is anticipated revenue loss, not strategic conviction. As ICE vehicle volumes decline over time, retail fuel revenue at existing sites is expected to decline with it. EV charging is viewed as the mechanism to capture that future revenue at the same physical locations before it disappears — protecting the retail footprint's long-term relevance, not chasing a new growth market with enthusiasm.
+
+Decarbonization mandates (government-driven or internal strategy commitments) are frequently present as a secondary driver and are often used in external communications, but the underlying commercial logic is revenue defense. Sales and marketing conversations should lead with protecting existing retail revenue and site relevance, not with EV market growth potential — the latter tends to undersell the urgency of what's actually motivating the buyer internally.
+
+### Disqualifiers and warning signals
+
+This segment does not lend itself to fixed disqualifiers — treat it as a segment requiring active signal-watching rather than a one-time qualification check. Do not treat a signed deal or stated commitment as a stable signal on its own. Watch actively for: budget reallocation away from EV/mobility within the fiscal year, leadership churn in the sponsoring division, public statements scaling back EV ambitions, or a shift back toward core fuel retail messaging in company communications. Any of these should trigger a reassessment of deal health, not just deal timing.
+
+### Personal stakes of the champion
+
+The champion is typically insulated from personal downside. EV charging is a strategic bet at the company level, not a make-or-break initiative tied to one person's career — if the initiative is scaled back or shelved, this usually reads as a portfolio-level strategy shift rather than a champion's individual failure.
+
+**Implication for sales and marketing:** Without personal risk driving urgency, the champion is less motivated by career safety than the utility or CPO champions are. Motivation is more likely to come from being seen as forward-thinking within the business, or from genuine conviction that this is the right long-term bet. Expect lower urgency and slower internal momentum than the volatility of the segment might suggest — insulation cuts both ways: less fear, but also less pressure to push the deal forward.
+
+---
+
+## Segment 3: Pure-Play Charge Point Operators (CPOs)
 
 ### Who they are
 
@@ -104,7 +156,7 @@ Unlike utilities, capital *is* their constraint. Every month of operational drag
 
 ### The 500 charge point threshold
 
-Below this number, CPOs typically believe they can manage with Excel or self-built systems. The threshold is not a hard rule — it is a proxy for when operational complexity outgrows manual management. Specifically:
+Below this number, CPOs typically believe they can manage with Excel, self-built systems, or an entry-level SaaS solution. The threshold is not a hard rule — it is a proxy for when operational complexity outgrows manual management. Specifically:
 
 - Transaction volumes become hard to manage manually
 - Roaming partner contracting and dispute resolution becomes a significant burden on the finance team
@@ -145,14 +197,14 @@ A VC or PE-backed CPO behaves differently from a municipally funded or owner-ope
 
 ---
 
-## Segment 3: E-Mobility Service Providers (eMSPs)
+## Segment 4: E-Mobility Service Providers (eMSPs)
 
 ### Who they are
 
 Companies with an existing subscription relationship with consumers or businesses, who are adding EV charging as a product extension. They are not pure-play EV companies — EV charging is one component of a broader offer.
 
 **Examples of eMSP types:**
-- Fleet mobility providers (e.g. DKV Mobility): offer fuel cards, tolling, car washes, fleet management — and now EV charging — to businesses via subscription
+- Fleet mobility providers: offer fuel cards, tolling, car washes, fleet management — and now EV charging — to businesses via subscription
 - Multi-modal mobility providers: subscription cards covering shared cars, scooters, public transport, and now EV charging
 - Any company with a direct consumer or business relationship at scale that wants to add EV charging as a feature or revenue line
 
@@ -192,6 +244,8 @@ The upside is real but moderate — being the person who successfully added a gr
 | Commercial/Operations Lead | CPO | Champion | Early | Scalability, utilisation, investor narrative | High downside — company survival tied to outcomes |
 | CFO/Finance Lead | CPO | Influencer | Mid | Roaming settlement risk, cost efficiency | Moderate — financial exposure is their problem |
 | Product/Commercial Lead | eMSP | Champion | Early | Integration simplicity, execution confidence | Low downside, moderate upside |
+| Head of New-Energy/Mobility Division | Oil/Gas & Retail Fuel | Champion | Early | Revenue defense, site relevance, org durability | Low — insulated, portfolio-level bet not personal |
+| CEO/CFO | Oil/Gas & Retail Fuel | Approver / signal source | Throughout | Strategic reallocation, public commitments vs. reality | Company-level, not personal | 
 
 ---
 
@@ -221,9 +275,7 @@ Structure it with:
 - A persona map
 - 5 discovery questions tailored to this company's segments
 
-Where the context doc has gaps, flag them explicitly rather than inferring.
-When done, list the top 3 things a salesperson needs to know from this doc
-that they probably don't know yet.
+Where the context doc has gaps, flag them explicitly rather than inferring. When done, list the top 3 things a salesperson needs to know from this doc that they probably don't know yet.
 ```
 
 ---
