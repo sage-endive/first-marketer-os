@@ -1,7 +1,7 @@
 # Positioning & Messaging Framework
 
 > **How to use this file**
-> This framework has two parts: the reusable structure and a worked example populated from EVCHARGESAAS. Use the EVCHARGESAAS example as a reference for the depth and honesty to aim for. When applying to a new company, duplicate the structure and populate from your company context doc.
+> This framework has two parts: the reusable structure and a fictional example of EVCHARGESAAS. Use the EVCHARGESAAS example as a reference for the depth and honesty to aim for. When applying to a new company, duplicate the structure and populate from your company context doc.
 >
 > Positioning is not a tagline exercise. It is a strategic decision about who you are for, what you are, and why that matters — made before any copy is written.
 
@@ -12,7 +12,7 @@
 | | |
 |---|---|
 | **Status** | Hypothesis — built from marketer brain dump, not yet workshopped or market-validated |
-| **Source** | Single experienced marketer (EVCHARGESAAS) |
+| **Source** | Single experienced marketer |
 | **Confidence** | High on core positioning logic and win/loss patterns · Medium on category naming · Lower on competitive landscape completeness |
 | **Next step to validate** | Workshop with sales, product, and 2–3 senior customers · Test category language in outbound and observe what resonates |
 | **Do not treat as gospel** | This is a strong starting point, not a finished strategy. Test it. Update it when the market responds. |
