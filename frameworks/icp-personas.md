@@ -41,8 +41,8 @@ Apply this question in discovery session one, across every segment.
 
 The ICP must be based and operating primarily in Europe. Non-European subsidiaries of European companies are in scope, but standalone non-European companies are not, regardless of how well they fit the segment and trigger criteria otherwise.
 
-**In scope** European headquartered companies · subsidiaries of European parents operating outside Europe
-**Out of scope** Non-European companies with no European parent, even if segment fit is strong
+**In scope:** European headquartered companies · subsidiaries of European parents operating outside Europe
+**Out of scope:** Non-European companies with no European parent, even if segment fit is strong
 
 ---
 
@@ -103,7 +103,7 @@ Financial risk management on roaming settlements tends to resonate well at this 
 
 ---
 
-## Segment 4: Oil/Gas Majors & Retail Fuel Operators
+## Segment 2: Oil/Gas Majors & Retail Fuel Operators
 
 ### Who they are
 
