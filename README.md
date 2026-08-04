@@ -24,7 +24,7 @@ It works across tools. The same markdown files power Claude.ai Projects (chat in
 | `/prompts` | Copy-paste Claude prompts for common tasks | Everyone |
 | `/guides` | How to use this system across different tools | Everyone |
 | `/company-context` | One folder per company: the fill-in doc that makes everything else specific | First marketer + team |
-| `/skills` | Define | First marketer + team |
+| `/skills` | Reusable Claude skills for specific tasks, such as fact-checking | First marketer + team |
 | `/personas` | AI role prompts: these are your sparring partners, such as commercial head, editor, finance director | First marketer (private) |
 
 ---
