@@ -1,9 +1,9 @@
 # Positioning & Messaging Framework
 
 > **How to use this file**
-> This framework has two parts: the reusable structure and a fictional example of EVCHARGESAAS. Use the example as a reference for the depth and honesty to aim for. When applying to a new company, duplicate the structure and populate from your company context doc.
+> This framework has two parts: the reusable structure and a fictional example of EVCHARGESAAS. Use the example as a reference for the depth and honesty for which to aim. When applying to a new company, duplicate the structure and populate from your company context doc.
 >
-> Positioning is not a tagline exercise. It is a strategic decision about who you are for, what you are, and why that matters — made before any copy is written.
+> Positioning is not a tagline exercise. It is a strategic decision about who you are for, what you are, and why that matters, and it is made before any copy is written.
 
 ---
 
@@ -11,7 +11,7 @@
 
 | | |
 |---|---|
-| **Status** | Hypothesis — built from marketer brain dump, not yet workshopped or market-validated |
+| **Status** | Hypothesis — built from marketer and available company data, not yet workshopped or market-validated |
 | **Source** | Single experienced marketer |
 | **Confidence** | High on core positioning logic and win/loss patterns · Medium on category naming · Lower on competitive landscape completeness |
 | **Next step to validate** | Workshop with sales, product, and 2–3 senior customers · Test category language in outbound and observe what resonates |
@@ -33,15 +33,16 @@ This is not a tagline. It is the strategic anchor. Every message, every proof po
 
 ### Who it is for
 
-**Primary segment:** Large national utilities — typically top 1–3 energy incumbents in a given country — who are committed to building EV charging infrastructure as part of a broader energy transition strategy.
+**Primary segment:** Large national utilities — typically top 1–5 energy incumbents in a given country — who are committed to building EV charging infrastructure as part of a broader energy transition strategy.
 
 These prospects are generally not evaluating whether to enter the market. They have already committed. They are choosing a long-term platform partner, not buying software.
 
-**Why this segment is primary:** They are the customers where EVCHARGESAAS is genuinely irreplaceable. No vanilla solution meets their compliance requirements, integration complexity, or long-term capability needs (smart charging, V2G). They are also the customers who validate EVCHARGESAAS for every other segment — if REFCUST1, Total, and REFCUST3 trust the platform, the conversation with everyone else starts from a position of credibility.
+**Why this segment is primary:** They are the customers where EVCHARGESAAS is genuinely irreplaceable. No vanilla solution meets their compliance requirements, integration complexity, or long-term capability needs (smart charging, V2G). They are also the customers who validate EVCHARGESAAS for every other segment — if REFCUST1, REFCUST2, and REFCUST3 trust the platform, the conversation with everyone else starts from a position of credibility.
 
 **Adjacent segments** (serve well if they meet the qualification bar — see ICP framework):
 - Pure-play CPOs at 500+ charge points under investor pressure
 - eMSPs at 25,000+ subscribers adding EV charging as a product extension
+- Oil/Gas & Retail Fuel with significant retail fuel stations under management
 
 ---
 
@@ -50,7 +51,7 @@ These prospects are generally not evaluating whether to enter the market. They h
 **Category:** EV Infrastructure Operating System
 
 **Why this category, not "charge point management system":**
-"Charge point management system" is accurate but positions EVCHARGESAAS as an operational tool — back-office, commodity, replaceable. EVCHARGESAAS's best customers — utilities like REFCUST1, Total, REFCUST3 — don't call it a management system. They call it their charging management platform or operating system. That language reflects how they actually experience it: foundational infrastructure that everything else runs on top of.
+"Charge point management system" is accurate but positions EVCHARGESAAS as an operational tool — back-office, commodity, replaceable. EVCHARGESAAS's best customers — utilities like REFCUST1, REFCUST2, REFCUST3 — don't call it a management system. They call it their charging management platform or operating system. That language reflects how they actually experience it: foundational infrastructure on which everything else runs on top.
 
 "Operating system" also solves the CPO positioning problem. EVCHARGESAAS is not a charge point operator — it is the infrastructure layer *for* operators. That distinction matters commercially (utilities don't want to buy from a competitor) and strategically (it positions EVCHARGESAAS as a layer above, not alongside, CPOs).
 
@@ -69,8 +70,9 @@ EVCHARGESAAS tends to win when prospects are choosing a long-term infrastructure
 | Compliance satisfaction | Security, data, and regulatory requirements cleared without becoming a blocker |
 | Financial stability | In a market with underfunded startups and recent bankruptcies, EVCHARGESAAS will be there in year 3 of a 5-year contract |
 | Integration credibility | Enterprise systems (CRM, ERP, billing) connect cleanly — EVCHARGESAAS fits into existing infrastructure |
+| Customer focus | Deep understanding of customer needs and focused attention on removing barriers, EVCHARGESAAS is a true partner | 
 
-**The customer proof:** REFCUST1, Total, REFCUST3 chose EVCHARGESAAS. These are among the most risk-averse, compliance-heavy, enterprise-demanding buyers in European energy. Their presence on the customer list is the most powerful trust signal available — it shifts the prospect's question from "can we trust them?" to "why do our peers trust them?"
+**The customer proof:** REFCUST1, REFCUST2, REFCUST3 chose EVCHARGESAAS. These are among the most risk-averse, compliance-heavy, enterprise-demanding buyers in European energy. Their presence on the customer list is the most powerful trust signal available — it shifts the prospect's question from "can we trust them?" to "why do our peers trust them?"
 
 ---
 
@@ -122,7 +124,7 @@ EVCHARGESAAS tends to lose when:
     └─────────┬──┘     └────────┬───┘     └───────┬────────┘
               │                 │                 │
     · Financial stability  · Enterprise       · Smart charging
-    · REFCUST1, Total, REFCUST3     integration       · V2G capability
+    · REFCUST1, REFCUST2, REFCUST3     integration       · V2G capability
     · Compliance-cleared  · Roaming risk      · Renewable
     · Implementation        elimination         portfolio fit
       track record        · Regulatory        · Roadmap
@@ -138,8 +140,8 @@ EVCHARGESAAS tends to lose when:
 **Why it matters:** In a market where vendors fail, overpromise, and underdeliver, trust is the primary purchase criterion for utilities making long-term infrastructure commitments. Features can be matched. Trust is built over time and evidenced by who already relies on you.
 
 **Proof points:**
-- REFCUST1, Total, REFCUST3 as reference customers — among the most compliance-heavy buyers in European energy
-- Financial stability at €36M ARR in a market with significant competitor failures
+- REFCUST1, REFCUST2, REFCUST3 as reference customers — among the most compliance-heavy buyers in European energy
+- Financial stability at €50M ARR in a market with significant competitor failures
 - Implementation track record at enterprise scale
 - Compliance and security clearance by enterprise procurement teams
 
@@ -151,7 +153,7 @@ EVCHARGESAAS tends to lose when:
 
 **The claim:** EVCHARGESAAS handles what vanilla solutions can't — the integration, compliance, and operational complexity that comes with building EV charging at utility scale.
 
-**Why it matters:** Utilities don't have a simple problem. They have enterprise integration requirements, regulatory obligations, roaming network complexity, and financial exposure on settlement risk. A simpler, cheaper platform doesn't do these things slightly worse — it typically can't do them at all.
+**Why it matters:** Utilities don't have a simple problem. They have enterprise integration requirements, regulatory obligations, roaming network complexity, network growth and balancing objectives, and financial exposure on settlement risk. A simpler, cheaper platform doesn't do these things slightly worse — it typically can't do them at all.
 
 **Proof points:**
 - API-first architecture that integrates with existing enterprise systems (CRM, ERP, billing)
@@ -172,7 +174,7 @@ EVCHARGESAAS tends to lose when:
 **Why it matters:** Utilities are generally not buying for today's charging network. They are buying for a multi-year energy transition strategy that includes smart charging optimisation, vehicle-to-grid integration, and renewable portfolio management. A platform that can't grow with that vision is a short-term tool they'll eventually have to replace.
 
 **Proof points:**
-- Smart charging capability — optimise charging load against grid and renewable supply
+- Smart charging capability — optimise charging load against grid and renewable supply, manage collective load against portfolio pricing strategies
 - V2G readiness — positioned for the next phase of the energy transition
 - Platform designed for operators already managing renewable portfolios
 - Roadmap aligned with EU regulatory direction on EV infrastructure
@@ -187,7 +189,7 @@ EVCHARGESAAS tends to lose when:
 
 **Their fear:** Choosing the wrong long-term partner and having to live with — or redo — that decision.
 
-**Lead with:** Peer validation. REFCUST1, Total, REFCUST3 made this choice. Here's what they said. Here's what the implementation looked like. Here's what the platform does for them today.
+**Lead with:** Peer validation. REFCUST1, REFCUST2, REFCUST3 made this choice. Here's what they said. Here's what the implementation looked like. Here's what the platform does for them today.
 
 **Avoid:** Feature lists, roadmap promises, price justification. None of that addresses the fear. It can make it worse.
 
