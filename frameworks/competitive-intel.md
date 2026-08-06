@@ -12,7 +12,7 @@
 | | |
 |---|---|
 | **Status** | Hypothesis — single marketer perspective, not validated with sales team or win/loss data |
-| **Source** | EVCHARGESAAS marketer brain dump |
+| **Source** | EVCHARGESAAS marketer brain dump, company research briefs |
 | **Confidence** | High on NexCharge (most common competitor) · Medium on WattWorks and SparkCore · Lower on in-house dynamics |
 | **Next step to validate** | Win/loss review with sales team · 3–5 customer interviews asking "who else did you evaluate?" · Quarterly sales debrief |
 | **Do not treat as gospel** | Competitor capabilities change fast in emerging markets. Treat every profile as a hypothesis to update, not a fact to repeat. |
@@ -46,7 +46,7 @@
 ### Where EVCHARGESAAS genuinely beats NexCharge
 
 - **Roaming breadth and depth:** EVCHARGESAAS's roaming network and roaming-as-a-service capability — including financial risk elimination on settlement defaults — is more developed. Meaningful differentiator for utilities and large CPOs with significant roaming exposure.
-- **Migration experience:** EVCHARGESAAS has more experience migrating customers from legacy or in-house systems cleanly. NexCharge appears to struggle when deals involve complex transitions from incumbent systems.
+- **Migration experience:** EVCHARGESAAS has more experience migrating customers from legacy or in-house systems cleanly. NexCharge does not have referenceable experieece when deals involve complex transitions from incumbent systems.
 
 ### How to win against NexCharge
 
@@ -109,7 +109,7 @@ If the prospect genuinely needs an all-in-one solution, they may be better serve
 ### Where EVCHARGESAAS genuinely beats SparkCore
 
 - **Technology scalability:** SparkCore has had operational challenges at scale — their platform has struggled with significant transaction volumes and network growth. Real risk for any customer planning substantial growth.
-- **Roaming capability:** Same advantage as other competitors.
+- **Roaming capability:** Same advantage as other competitors, although they are catching up.
 - **Platform maturity:** EVCHARGESAAS is a more complete and mature software platform. SparkCore is stronger on services wrapped around a less developed core product.
 
 ### How to win against SparkCore
