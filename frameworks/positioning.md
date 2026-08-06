@@ -102,6 +102,8 @@ EVCHARGESAAS tends to lose when:
 
 4. **Pipeline discipline breaks down:** When sales volume is prioritised over sales quality, mis-qualified prospects fill the pipeline, distorting product priorities and creating customers who extract partial value and become weak references.
 
+5. **Champion loses internal air cover (Oil/Gas & Retail Fuel specific):** Unlike other segments, this deal can be lost *after* signing, not just before. Budget reallocation, leadership churn in the sponsoring division, or a strategic pivot back to core fuel retail can shelve or deprioritise the initiative regardless of platform fit or delivery quality. This is not a sales-process failure — deal health here needs active post-close monitoring, not just pre-close qualification. See ICP framework's "warning signals" for what to watch.
+
 > **Strategic lesson worth preserving:** A utility-focused platform with a complex, relationship-driven sales cycle does not need high-volume sales headcount. It needs a small number of exceptional enterprise sellers and strong solutions engineering. Volume hiring implies a volume motion — and a volume motion pulls in the wrong customers, which corrupts the roadmap for the right ones.
 
 ---
@@ -161,9 +163,11 @@ EVCHARGESAAS tends to lose when:
 - Regulatory compliance handling built in, not bolted on
 - Roaming dispute resolution at scale — millions in monthly settlement value managed without exposing the customer's finance team
 
-**The roaming risk argument — use differently by segment:**
+**The roaming argument — use differently by segment:**
 - *Utilities:* "You have significant monthly roaming revenue dependent on partners who may not be financially secure. We take that default risk off your balance sheet entirely."
+- *Oil/Gas & Retail Fuel:* "As EV charging revenue at your sites grows, roaming partner defaults erode exactly the transition revenue you're counting on to offset declining fuel sales. We protect that revenue as it ramps, not after it's already been lost."
 - *CPOs:* "Your finance team is spending time chasing overdue settlements. We eliminate that exposure and let you focus on growing your network."
+- *eMSPs:* "Your subscribers expect to charge anywhere, without thinking about it. We operate the largest and still-growing roaming network in Europe — that coverage isn't static, and it's not something you have to build, maintain, or worry about shrinking."
 
 ---
 
@@ -207,6 +211,30 @@ EVCHARGESAAS tends to lose when:
 
 ---
 
+### Head of New-Energy/Mobility Division (Oil/Gas & Retail Fuel champion)
+
+**Their concern:** Not fear of choosing wrong — they're insulated from personal downside. Their concern is internal relevance: keeping the initiative funded and taken seriously inside a business whose core logic still runs on fuel retail, especially when leadership attention or capital shifts elsewhere.
+
+**Lead with:** Open with a market-level proof point as a conversation starter, not a closing argument — for example, industry forecasts on fuel retail's shifting profit mix due to EV adoption. Use it to prompt the prospect's own thinking: *"What do your internal projections show for fuel revenue exposure over the next 5–10 years?"* Their answer reveals far more about urgency and internal alignment than any external stat could, and positions the conversation as consultative rather than a sales pitch.
+
+**Avoid:** Leading with future-vision language (smart charging enthusiasm, V2G positioning). This buyer isn't motivated by where the energy transition is going — they're motivated by not losing what they already have.
+
+**The conversation that wins:** *"Here's what your retail fuel revenue looks like as EV adoption grows — and here's how much of that same revenue you can capture at your existing sites if the transition is managed well."*
+
+**Note on using market stats with this segment:** Lead with the market stat as a discovery question, not a stated fact — it opens the conversation and gets the prospect sharing their own numbers, which is more persuasive internally than an external citation. Sales should have 1–2 credible, sourced stats ready (e.g. KPMG or NACS data on fuel retail profit mix shifting toward non-fuel revenue) to prompt with, but the goal is the prospect's answer, not the stat itself. 
+
+---
+
+### CEO/CFO (Oil/Gas & Retail Fuel approver / signal source)
+
+**Their concern:** Strategic capital allocation and defensibility of the EV investment narrative — internally and publicly. This is the level where the in-and-out pattern common to this segment actually gets decided.
+
+**Lead with:** Financial risk framing, the same register used for utilities' roaming argument but pointed at revenue protection rather than infrastructure ambition. Analyst-style proof of the pace and scale of fuel revenue at risk gives this buyer a defensible, board-ready rationale for continued investment.
+
+**The conversation that wins:** "Industry forecasts suggest fuel retail's profit mix is shifting significantly toward non-fuel revenue over the next decade — what do your own projections show for revenue at risk, and does your current EV strategy account for that timeline?"
+
+---
+
 ### Commercial/Operations Lead (CPO champion)
 
 **Their fear:** The company doesn't reach financial sustainability and their career takes the hit.
@@ -221,9 +249,9 @@ EVCHARGESAAS tends to lose when:
 
 **Their concern:** Integration simplicity and execution confidence. This is a product bet, not a company bet.
 
-**Lead with:** How fast and cleanly this gets live for their customers. Reference integrations, API documentation quality, support model.
+**Lead with:** How fast and cleanly this gets live for their customers. Reference integrations, API documentation quality, support model. Pair this with network assurance — EVCHARGESAAS operates the largest and still-growing roaming network in Europe, so subscribers get consistent, expanding charge-anywhere coverage without the eMSP having to manage or worry about network breadth themselves.
 
-**The conversation that wins:** Make the path to "live and working" feel short, clear, and low-risk.
+**The conversation that wins:** "Your subscribers need to trust that charging just works, wherever they are — and that this doesn't get worse over time. We operate the largest roaming network in Europe, and it's still growing." Make the path to "live and working" feel short, clear, and low-risk.
 
 ---
 
@@ -232,10 +260,12 @@ EVCHARGESAAS tends to lose when:
 | Avoid | Why | Instead |
 |---|---|---|
 | Leading with smart charging for non-utility prospects | It reads as complexity, not capability — they don't value it yet | Qualify first; introduce smart charging only when the prospect has a renewable/grid thesis |
+| Leading with future-readiness (Pillar 3) messaging for Oil/Gas prospects | Their buying logic is defensive revenue protection, not a decades-long vision — future-vision enthusiasm can read as irrelevant or naive to a buyer motivated by loss aversion | Lead with Pillar 2 (built for complexity, risk elimination) and revenue-defense framing; introduce Pillar 3 only if genuine strategic diversification signals appear |
 | Competing on price | EVCHARGESAAS is premium — defending price means the value argument failed earlier | Reframe to total cost of wrong choice, not unit price |
 | Overselling roaming breadth | Mature customers will analyse actual traffic patterns and see through it | Sell roaming risk elimination (financial value) not roaming coverage (feature) |
 | Filling pipeline with non-ICP prospects | Distorts roadmap, creates weak references, dilutes the product for the right customers | Apply the API integrator qualifier and ICP thresholds in session one |
 | Claiming "fastest" or "easiest" | Utility buyers don't want fast — they want right | Use "without compromise" and "confidence" language |
+
 
 ---
 
