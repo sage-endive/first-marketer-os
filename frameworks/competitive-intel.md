@@ -181,11 +181,9 @@ Use these when a named competitor comes up in conversation:
 ## How to use this with Claude
 
 ```
-Load /company-context/[company-name]/context.md, /frameworks/competitive-intel.md,
-and /frameworks/icp-personas.md.
+Load /company-context/[company-name]/context.md, /frameworks/competitive-intel.md, and /frameworks/icp-personas.md.
 
-Using the company context and the EVCHARGESAAS competitive profiles as a reference
-for depth and format, build a competitive intelligence framework for [company name].
+Using the company context and the EVCHARGESAAS competitive profiles as a reference for depth and format, build a competitive intelligence framework for [company name].
 
 For each named competitor include:
 - Who they are and their profile
@@ -196,8 +194,7 @@ For each named competitor include:
 Include a section on the in-house / stay with incumbent alternative.
 
 Flag any competitors in the context doc that need more research before profiling.
-When done, identify the single competitive situation the sales team is
-least prepared for and suggest how to address it.
+When done, identify the single competitive situation the sales team is least prepared for and suggest how to address it.
 ```
 
 ---
