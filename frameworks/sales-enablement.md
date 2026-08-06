@@ -57,7 +57,7 @@ These are the materials rebuilt at every company, regardless of product or marke
 
 The pitch deck's job is to move a prospect through an initial screen — to establish enough credibility and relevance that they want to take the next step. It is not trying to close anything. It is trying to earn the next conversation.
 
-This is a different design brief than most pitch decks are written to. When the job is "earn the next conversation," much of what typically goes in a deck gets cut.
+This is a different design brief against which most pitch decks are written. When the job is "earn the next conversation," much of what typically goes in a deck gets cut.
 
 ### The narrative structure that works
 
@@ -68,7 +68,7 @@ This structure works because it mirrors how buyers actually make decisions:
 2. They need to see a credible solution before they will believe a claim
 3. They need evidence before they will take a risk
 
-**Problem:** Start with the prospect's world, not your product. Name the specific challenge your ICP is facing. Be precise — generic problem statements ("the EV charging market is growing fast") do not create the feeling of being understood. Specific ones do ("utilities managing roaming settlement risk across dozens of partners with no financial protection against default").
+**Problem:** Start with the prospect's world, not your product. Name the specific challenge your ICP is facing. Be precise, as generic problem statements ("the EV charging market is growing fast") do not create the feeling of being understood. Specific ones do ("utilities managing roaming settlement risk across dozens of partners with no financial protection against default").
 
 **Solution:** How you solve it, in plain terms. Not a feature list. A capability statement that connects directly to the problem just named. One slide per major capability maximum — if it needs more, it is too detailed for a pitch deck.
 
