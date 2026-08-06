@@ -13,7 +13,7 @@
 |---|---|
 | **Status** | Hypothesis — single marketer perspective, not validated with sales team or win/loss data |
 | **Source** | EVCHARGESAAS marketer brain dump, company research briefs |
-| **Confidence** | High on NexCharge (most common competitor) · Medium on WattWorks and SparkCore · Lower on in-house dynamics |
+| **Confidence** | High on NexCharge (most common competitor) · Medium on WattWorks and SparkCore · Lower on in-house dynamics · Lowest on competitive dynamics for Oil/Gas & Retail Fuel and eMSP segments — not yet tested against real deals |
 | **Next step to validate** | Win/loss review with sales team · 3–5 customer interviews asking "who else did you evaluate?" · Quarterly sales debrief |
 | **Do not treat as gospel** | Competitor capabilities change fast in emerging markets. Treat every profile as a hypothesis to update, not a fact to repeat. |
 
@@ -46,7 +46,7 @@
 ### Where EVCHARGESAAS genuinely beats NexCharge
 
 - **Roaming breadth and depth:** EVCHARGESAAS's roaming network and roaming-as-a-service capability — including financial risk elimination on settlement defaults — is more developed. Meaningful differentiator for utilities and large CPOs with significant roaming exposure.
-- **Migration experience:** EVCHARGESAAS has more experience migrating customers from legacy or in-house systems cleanly. NexCharge does not have referenceable experieece when deals involve complex transitions from incumbent systems.
+- **Migration experience:** EVCHARGESAAS has more experience migrating customers from legacy or in-house systems cleanly. NexCharge does not have referenceable experience when deals involve complex transitions from incumbent systems.
 
 ### How to win against NexCharge
 
@@ -151,6 +151,39 @@ Ask questions that make the prospect calculate the real cost themselves:
 - *"What happens to your roadmap if the two engineers who built this leave?"*
 
 The goal is to make hidden costs visible, not to pitch EVCHARGESAAS features.
+
+---
+
+## Competitive dynamics by segment
+
+Competitor relevance is not uniform across segments. This section is a hypothesis based on how each competitor's strengths map to segment buying logic and real-world results.
+
+### Utilities
+
+**Primary threat:** NexCharge, and in-house build. This is where NexCharge is most credibly positioned — utilities have the technical sophistication to evaluate feature velocity claims seriously, and the stakes are high enough that in-house build is a live alternative (see case study above).
+
+**Lower relevance:** WattWorks rarely appears here — its all-inclusive, small-operator positioning doesn't match utility procurement requirements or scale.
+
+### Oil/Gas & Retail Fuel
+
+**Hypothesis, unvalidated:** This segment's defensive, budget-conscious buying logic (see ICP and positioning frameworks) may make it more price- and flexibility-sensitive than utilities. Two possible dynamics to watch for:
+
+- **SparkCore risk:** A division running EV charging as a newer, less mature initiative — especially one without a dedicated mobility unit — may respond well to SparkCore's consultative, hand-holding approach, particularly if the internal team is small and inexperienced with charging infrastructure specifically.
+- **WattWorks risk:** If the initiative is being run as a limited-budget side project rather than a fully resourced division, WattWorks's all-inclusive, cheaper-feeling positioning could appeal — even though it's a poor structural fit at scale. This may be a mis-qualification signal worth watching rather than a genuine competitive loss.
+
+**Note:** Unlike utilities, in-house build is likely a lower risk here — this is not a division with deep internal software engineering capability the way large utilities or CPOs might have. 
+
+### CPOs (Pure-play charge point operators)
+
+**Primary threat:** NexCharge, particularly with fast-growing, technically sophisticated CPOs who value feature velocity and are comfortable with a more technical sales process.
+
+**Secondary watch:** WattWorks may appear with CPOs below or near the 500 charge point threshold — often a sign the prospect is not yet ready for EVCHARGESAAS and is a mis-qualification, not a genuine loss (see ICP threshold logic).
+
+### eMSPs
+
+**Primary threat:** NexCharge, where the eMSP has strong technical requirements and wants a highly customizable integration.
+
+**Lower relevance:** SparkCore's consultative, relationship-heavy model is a weaker fit here — eMSPs are optimizing for fast, clean, low-touch integration (see positioning persona notes), not a high-touch service relationship. WattWorks is plausible only for smaller eMSPs below the 25,000 subscriber threshold, where it may be a legitimate fit rather than a competitive loss.
 
 ---
 
