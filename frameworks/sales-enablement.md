@@ -288,16 +288,14 @@ Before publishing any sales material, ask: "Does this help a seller answer a que
 ## How to use this with Claude
 
 ```
-Load /company-context/[company-name]/context.md, /frameworks/sales-enablement.md,
-/frameworks/icp-personas.md, and /frameworks/positioning.md.
+Load /company-context/[company-name]/context.md, /frameworks/sales-enablement.md, /frameworks/icp-personas.md, and /frameworks/positioning.md.
 
 Using the company context as input, produce a sales enablement audit for [company name].
 
 Include:
 - Which materials from the core stack exist, which are missing, which need updating
 - The 3 most important gaps to close first based on the GTM motion and ICP
-- A draft structure for the pitch deck narrative (problem, solution, proof)
-  tailored to the primary ICP segment
+- A draft structure for the pitch deck narrative (problem, solution, proof) tailored to the primary ICP segment
 - The top 5 objections the sales team is likely facing and suggested responses
 - A recommendation on proof format given the customer profile
 
