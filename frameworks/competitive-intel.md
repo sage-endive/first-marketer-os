@@ -32,7 +32,7 @@
 
 ## Competitor 1: NexCharge
 
-**Website:** nexcharge.com
+**Website:** NexCharge.com
 **Profile:** Pure-play EV charging management platform. Strong technical sales motion and customer relationship management. Perceived as faster-moving and more commercially flexible than EVCHARGESAAS.
 
 ### Where they genuinely beat EVCHARGESAAS
@@ -65,7 +65,7 @@ Use REFCUST1, REFCUST2, REFCUST3 reference customers to establish the trust gap.
 
 ## Competitor 2: WattWorks
 
-**Website:** wattworks.com
+**Website:** WattWorks.co
 **Profile:** Full-stack, all-inclusive EV charging platform. Strong with small operators. Competes on feature breadth and speed, including built-in CRM, invoicing, and AI-adjacent features.
 
 ### Where they genuinely beat EVCHARGESAAS
