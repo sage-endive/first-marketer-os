@@ -127,6 +127,104 @@ REFCUST1, REFCUST2, and REFCUST3 — among the most compliance-heavy utility buy
 **Watch for:** SparkCore technology investment or engineering hires that could close the scalability gap.
 
 ---
+## 1. Narrative / storytelling framework — Oil/Gas & Retail Fuel
+
+**Structure: Problem → Solution → Proof**
+
+### Problem
+
+As EV adoption grows, retail fuel revenue at existing forecourt sites faces long-term decline. This isn't a distant risk — it's already showing up in market data on shifting profit composition. The pressure isn't strategic ambition, it's defensive: capture the EV charging revenue at the same physical locations before that revenue moves elsewhere. Complicating this, EV charging initiatives in this sector are often under-resourced relative to the core fuel business, and commitment can waver when budget priorities shift or leadership changes.
+
+### Solution
+
+EVCHARGESAAS gives retail fuel operators a way to capture EV charging revenue at their existing sites without taking on the operational and financial risk of building it themselves. Roaming-as-a-service protects transaction revenue as it ramps — not after it's already been eroded by partner defaults. API-first integration means this connects into whatever systems already exist, without requiring a parallel platform investment the core business has to fund and maintain.
+
+### Proof
+
+Industry data offers a starting point for the conversation, not a closing argument: KPMG forecasts that up to 80% of fuel retail profit could come from non-fuel sources by the mid-2030s, and fuel already contributes a shrinking share of profit relative to revenue today. The right move in conversation is to ask the prospect what their own projections show — their answer reveals more about urgency and internal alignment than any external stat can.
+
+---
+
+## 2. One-pager — Oil/Gas & Retail Fuel
+
+**The problem**
+EV adoption is reshaping forecourt economics — fuel retail revenue at your existing sites is under long-term pressure, and the profit mix is already shifting toward non-fuel sources. The opportunity is to capture EV charging revenue at the same locations before it moves elsewhere.
+
+**The solution**
+EVCHARGESAAS gives you the infrastructure to capture EV charging revenue at your existing sites — without taking on the financial risk or operational burden of building it yourself. Roaming-as-a-service protects your revenue as it grows. API-first integration means no parallel platform to fund and maintain.
+
+**Why us**
+- Roaming settlement risk protection — your EV charging revenue isn't exposed to partner default as it ramps
+- API-first architecture — connects to what you already run, no rip-and-replace
+- Financial stability in a market with real competitor failures — a durable partner for a multi-year transition
+- Built to scale with you, without requiring dedicated internal engineering investment
+
+**Proof**
+Industry forecasts point to a real and accelerating shift — KPMG projects up to 80% of fuel retail profit could come from non-fuel sources by the mid-2030s. What do your own projections show?
+
+**Next step:** Ready to go deeper? The right next step depends on where you are — a technical requirements review, a live demo, or an early pricing indication. [Contact name/details] can point you to the right one.
+
+---
+
+## 3. Objection handling guide — Oil/Gas & Retail Fuel
+
+### "We're not sure this is a priority right now"
+
+**Why they're asking:** EV charging is often a smaller, less resourced initiative here than at a utility — competing directly for attention against the core fuel business.
+**The answer:** Reframe from "new initiative" to "revenue protection already in motion elsewhere in the market." The risk isn't acting too early — it's ceding the transition to a competitor who moves first.
+**The redirect:** *"What do your internal projections show for fuel revenue exposure over the next 5–10 years — and does your current strategy account for that timeline?"*
+**What not to say:** Don't lead with future-vision or growth-market excitement (V2G, smart charging ambition) — this buyer isn't motivated by where the transition is going, they're motivated by not losing what they already have.
+
+### "This isn't in this year's budget"
+
+**Why they're asking:** Budget for EV initiatives in this segment is often the first thing reallocated when priorities shift internally.
+**The answer:** Don't push urgency you can't justify. Instead, make the cost of delay concrete and quantifiable using their own numbers, not a generic pitch.
+**The redirect:** *"If this waits another budget cycle, what does that mean for the pace at which you're capturing this revenue versus competitors already moving?"*
+**What not to say:** Avoid pressure tactics — this segment's champion is typically insulated from personal risk, so urgency has to come from the business case itself, not from fear.
+
+### "How do we know this stays a priority internally?"
+
+**Why they're asking:** This segment has a real pattern of entering and exiting EV charging commitments — the prospect may be self-aware about that volatility, or you may need to surface it.
+**The answer:** Acknowledge the pattern honestly rather than dismissing it — this is a market where staying power matters and not every vendor or plan survives a strategy shift. Position EVCHARGESAAS as a stable, low-overhead partner that doesn't require sustained heavy internal investment to keep working.
+**The redirect:** *"What would make this initiative resilient even if internal priorities or leadership shift over the next 18 months?"*
+**What not to say:** Don't pretend this segment's volatility doesn't exist — it undermines credibility rather than building it.
+
+### "What does this cost us if we build it ourselves instead?"
+
+**Why they're asking:** Some retail fuel operators may consider an internal build, especially if there's existing IT capability from the core business.
+**The answer:** Unlike large utilities, this segment typically doesn't have deep dedicated software engineering capability to sustain a competitive in-house build — surface that gap directly, respectfully.
+**The redirect:** *"What's the opportunity cost of your team building and maintaining EV charging infrastructure software, versus focusing on your core retail business?"*
+**What not to say:** Don't assume they have utility-scale engineering resources behind them — check first.
+
+---
+
+## 4. Competitive battlecards — Oil/Gas & Retail Fuel
+
+### vs. SparkCore
+
+**Their pitch:** Consultative, relationship-led, flexible, good listeners.
+**Where they're genuinely strong:** Especially appealing to a newer, less experienced EV charging team without a dedicated mobility unit — the hand-holding approach can feel reassuring to a small or inexperienced internal team.
+**Where we win:** Technology scalability and roaming capability, particularly as the initiative grows beyond a pilot.
+**How to win:** Don't attack the relationship — surface the scale question. *"As this grows beyond your first sites, what does your platform need to handle in transaction volume and roaming settlements? Has SparkCore been stress-tested at that scale?"*
+**Watch for:** This is a hypothesis, not yet validated against real deals in this segment — confirm or correct based on real sales experience.
+
+### vs. WattWorks
+
+**Their pitch:** All-inclusive, fast, cheaper-feeling, modern positioning.
+**Where they're genuinely strong:** May appeal if the initiative is being run as a limited-budget side project rather than a fully resourced division — WattWorks can look like the lower-commitment option.
+**Where we win:** Enterprise integration and long-term scalability. A poor structural fit if the operator later needs to integrate with real enterprise systems or scale meaningfully.
+**How to win:** Treat a WattWorks mention as a possible mis-qualification signal, not just a competitive threat — confirm the prospect's actual scale ambition before positioning against them directly. *"WattWorks is a strong fit for a lighter-weight, standalone setup. If you're planning to integrate this with your existing systems or scale significantly, that's a different requirement."*
+**Watch for:** Whether this pattern holds in real deals — currently unvalidated.
+
+### vs. NexCharge
+
+**Their pitch:** Feature velocity, technical sales strength, commercial flexibility.
+**Where they're genuinely strong:** Less clearly differentiated in this segment specifically than in Utilities — NexCharge's technical selling motion assumes a sophisticated buyer, which may not always match this segment's typically leaner EV charging team.
+**Where we win:** Roaming risk elimination and financial stability — the same advantages as in other segments.
+**How to win:** *"The question is not who develops faster. It is whether they will be there in year 3 of this initiative — and whether their model protects your revenue as it ramps."*
+**Watch for:** Whether NexCharge is a common competitor in this segment at all — this hasn't been tested.
+
+---
 
 ## How to use this with Claude
 
