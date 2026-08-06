@@ -54,7 +54,7 @@ Lead with roaming risk elimination and migration credibility. Do not compete on 
 
 *"The question is not who develops faster. It is whether they will be there in year 3 of your contract — and whether their roaming settlement model protects your revenue."*
 
-Use REFCUST1, Total, REFCUST3 reference customers to establish the trust gap. If those names resonate, the credibility differential does significant work.
+Use REFCUST1, REFCUST2, REFCUST3 reference customers to establish the trust gap. If those names resonate, the credibility differential does significant work.
 
 ### Watch for
 
