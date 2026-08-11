@@ -10,8 +10,7 @@ Everything in this system is generic until you fill in `/company-context/[compan
 
 **Don't skip this. A half-filled context doc produces half-useful outputs.**
 
-Time to complete: 30–60 minutes.
-Who should fill it in: the first marketer, ideally with input from the CEO or a senior commercial person.
+Who should fill it in: the first marketer, ideally with input from persons with intimate knowledge of the market, customers, competitors beyond research.
 
 ---
 
