@@ -340,6 +340,97 @@ CPOs with significant monthly roaming revenue and financially unstable partners 
 
 ---
 
+## 1. Narrative / storytelling framework — eMSPs
+
+**Structure: Problem → Solution → Proof**
+
+### Problem
+
+EV charging is a product extension for you, not your core business — a revenue line or retention feature you're adding on top of an existing subscription relationship your customers already trust. The risk isn't strategic, it's execution: if the integration is messy, unreliable, or becomes an ongoing support burden, it reflects on your core product, not just the charging feature. Your subscribers expect to charge anywhere, without thinking about it — and that expectation doesn't go away just because charging is a smaller part of your offer.
+
+### Solution
+
+EVCHARGESAAS connects to your existing customer management and invoicing systems as a clean, API-first EV charging layer — not a replacement for what you already run. Integration is fast and reliable, so the path to "live and working" is short and low-risk. Behind it, your subscribers get access to the largest and still-growing roaming network in Europe — coverage they can rely on without you having to build, maintain, or worry about it shrinking over time.
+
+### Proof
+
+EVCHARGESAAS's API-first architecture is built specifically for operators who already have enterprise CRM and invoicing in place and need an EV-specific layer that connects cleanly, not a full-stack replacement. The roaming network's scale and continued growth is a standing capability, not a one-time claim — coverage that keeps expanding as the market does.
+
+---
+
+## 2. One-pager — eMSPs
+
+**The problem**
+EV charging is a product extension, not your core business — but it still needs to work reliably for your subscribers, integrate cleanly with what you already run, and not become an ongoing support burden.
+
+**The solution**
+EVCHARGESAAS connects to your existing customer management and invoicing systems as a clean, API-first EV charging layer. Fast, reliable integration means a short, low-risk path to live. Your subscribers get access to the largest and still-growing roaming network in Europe.
+
+**Why us**
+- Clean API integration with your existing CRM and invoicing systems — no replacement, no rebuild
+- The largest and still-growing roaming network in Europe — consistent, expanding charge-anywhere coverage for your subscribers
+- Fast, low-risk path to live — integration built for execution confidence, not just capability
+- A platform that stays out of the way — reliable enough that EV charging doesn't become a support burden on your core product
+
+**Proof**
+EVCHARGESAAS is built specifically for operators who already have enterprise CRM and invoicing in place and need an EV-specific layer that connects to it — clean integration, clear scope, no roadmap negotiation from day one.
+
+**Next step:** Ready to go deeper? The right next step depends on where you are — a technical requirements review, a live demo, or an early pricing indication. [Contact name/details] can point you to the right one.
+
+---
+
+## 3. Objection handling guide — eMSPs
+
+### "How does this integrate with our existing customer management and invoicing systems?"
+
+**Why they're asking:** This is the core qualification filter — they need to know whether this is a clean API layer or a full platform replacement before they'll take the conversation further.
+**The answer:** EVCHARGESAAS connects via API as the EV charging layer specifically. It's built to sit alongside your existing CRM and invoicing systems, not replace them.
+**The redirect:** *"What does your existing customer management and invoicing stack look like? That'll tell us exactly how clean this integration will be."*
+**What not to say:** Don't imply EVCHARGESAAS can also handle CRM or invoicing functionality if the prospect is below the 25,000 subscriber threshold and actually needs that — that's a roadmap negotiation, not a clean fit, and overpromising here creates a support burden later.
+
+### "We're worried this becomes an ongoing support burden"
+
+**Why they're asking:** EV charging is a smaller part of their offer — the personal and business downside of a poor integration choice is limited, but still real. They're judging execution confidence, not just capability.
+**The answer:** Point to integration speed, API documentation quality, and the support model directly. The goal is for this to stay reliably out of the way, not require ongoing hand-holding.
+**The redirect:** *"What does your ideal support experience look like once this is live — and what's caused support headaches with other integrations in the past?"*
+**What not to say:** Don't oversell capability breadth here — this buyer isn't looking to be impressed, they're looking to be reassured.
+
+### "Can our subscribers actually charge anywhere they need to?"
+
+**Why they're asking:** Charge-anywhere reliability reflects directly on their core subscription product — a coverage gap becomes their customer service problem, not just a charging network issue.
+**The answer:** EVCHARGESAAS operates the largest and still-growing roaming network in Europe — coverage isn't static, and it's not something the eMSP has to build, maintain, or worry about shrinking.
+**The redirect:** *"Where are your subscribers most concentrated, and are there specific regions or route types where coverage matters most to them?"*
+**What not to say:** Don't claim total or universal coverage — be specific and factual about network scale and growth trajectory instead. Refer them to the live reporting portal for network statistics.
+
+### "How fast can we actually get this live?"
+
+**Why they're asking:** Time to live is a primary decision criterion for this segment — a long, complex rollout undermines the entire premise of a low-risk product extension.
+**The answer:** Lead with integration speed and API documentation quality directly — give a concrete, realistic timeline rather than a vague reassurance.
+**The redirect:** *"What's your target launch window, and what does your current tech stack look like? That'll tell us how close we can get to that timeline."*
+**What not to say:** Don't commit to a timeline you can't back up with the IT architecture or integration specifics — a missed timeline here damages trust in a segment that's judging execution confidence above all else.
+
+---
+
+## 4. Competitive battlecards — eMSPs
+
+### vs. NexCharge
+
+**Their pitch:** Faster feature development, more commercial flexibility, strong technical sales relationships.
+**Where they're genuinely strong:** eMSPs with strong technical requirements who want a highly customizable integration — this is where NexCharge is most likely to show up in this segment.
+**Where we win:** Migration and integration experience with existing enterprise systems, and roaming network scale and reliability — a bigger factor for eMSPs than it may first appear, since subscriber-facing coverage gaps become the eMSP's support problem.
+**How to win:** Don't compete on customizability alone. *"The question isn't just who can build the most custom integration — it's whether your subscribers get consistent, reliable coverage that doesn't become your support team's problem."*
+**Watch for:** NexCharge strengthening its roaming network or integration track record with subscription-based operators specifically.
+
+### vs. FlowIn
+
+**Their pitch:** Iinfrastructure layer that lets an energy company, OEM, mobility provider, or other brand become an eMSP. Use the eMSP's relationship with the vehicle itself to optimise charging against electricity prices and grid conditions, not just selling access to public chargers.
+**Where they're genuinely strong:** A meaningfully different proposition, not just a feature competitor. Pay-as-you-grow, session- and car-based pricing bundles the white-label app, billing engine, CPO settlement, and home reimbursement into one core offering — a single vendor relationship instead of assembling CPMS, roaming hub, eMSP frontend, billing, and vehicle API layer separately. Strong vehicle connectivity claims — 40+ vehicle brands and roughly 95% of vehicle models supported for connected-car functionality.
+**Where we win:** Roaming network scale and reliability for public charging specifically — FlowIn's pitch centers on the vehicle relationship and smart/home charging optimisation, not public network breadth. If the eMSP's subscribers rely heavily on public charge-anywhere coverage rather than primarily home charging, that's a real differentiator in our favour. Integration experience with existing enterprise CRM and invoicing systems is also a different value proposition than FlowIn's all-in-one bundle — worth surfacing directly if the eMSP already has those systems and doesn't want a bundled replacement.
+**How to win:** Don't compete on breadth of the all-in-one bundle — that's a genuinely different model, not a feature gap. Instead, qualify what the eMSP actually needs: *"Is your priority optimising home and smart charging around the vehicle, or making sure your subscribers have reliable public charging coverage wherever they go? And do you already have CRM and billing systems you'd want this to plug into, or are you looking for a full bundle?"* If public network reliability and clean integration with existing systems matter more than the all-in-one bundle, that's where we're the stronger fit.
+**Watch for:** This is a new, more structurally different competitor than the others in this segment — treat this battlecard as a first draft. Confirm real deal exposure with sales before treating this as validated. Watch for FlowIn's public roaming network expanding — if their public charging coverage closes the gap while retaining the bundled model, the "different proposition" framing above becomes harder to use.
+
+---
+
 ## How to use this with Claude
 
 \`\`\`
