@@ -19,7 +19,7 @@ The person using this repo is typically the first or only marketer at a company 
 /prompts          Copy-paste prompts for common tasks across surfaces.
 /guides           Usage documentation for different tools and audiences.
 /company-context  One subfolder per company. Contains context.md with all company-specific data.
-/skills           Reusable skills.
+/skills           Repeatable structured processes.
 /personas         AI role definitions — private, not committed publicly.
 ```
 
