@@ -90,6 +90,21 @@ Personas are available in Claude.ai Projects (if you've uploaded the persona fil
 
 ---
 
+## How to invoke a skill
+
+Skills live in `/skills/` and work differently from personas — they run a defined, structured process rather than adopting a role. Invoke by naming the skill, the same way you'd invoke a persona:
+
+- *"Fact Checker, verify this whitepaper before publication."* — runs the full three-phase process and produces a structured audit report
+- *"Fact Checker, quick check, review this competitive analysis draft."* — runs claim extraction and verification only, with a simple flag list, no formal report
+
+**Where you're working changes how it runs:**
+- **In Claude.ai chat or Projects:** a single agent runs the full process. Web search must be enabled — skills like Fact Checker rely on it to verify claims against primary sources.
+- **In Cowork:** skills that support it (like Fact Checker) run with two agents — one performs the task, a second independently reviews before the output is finalised.
+
+Skills are available in Claude.ai Projects (if you've uploaded the skill file) and in Claude Code (they're in the repo), the same as personas.
+
+---
+
 ## How to update a framework
 
 1. Open the file (in GitHub browser, locally, or via Claude Code)
@@ -106,5 +121,6 @@ If an output doesn't seem right, check:
 1. Is the company context complete? Missing fields = generic outputs
 2. Is the right framework loaded? Each prompt references specific files
 3. Is the persona invoked correctly? Name it explicitly at the start
+4. If using a skill, is it invoked correctly, and is web search enabled where necessary? Skills like Fact Checker can't verify claims without it
 
 If you're unsure, run the onboarding prompt again — it will flag gaps.
