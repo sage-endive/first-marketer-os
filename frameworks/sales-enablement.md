@@ -233,6 +233,113 @@ Industry forecasts point to a real and accelerating shift — KPMG projects up t
 
 ---
 
+## 1. Narrative / storytelling framework — CPOs
+
+**Structure: Problem → Solution → Proof**
+
+### Problem
+
+You've scaled past 500 charge points, and the systems that got you here can't get you to 2,000. Roaming disputes — overdue settlements, partner defaults, financial exposure — are becoming a finance team problem that's getting worse, not better. Day-to-day operations are also straining: manual setup for every new site, manual troubleshooting for every fault, manual corrections when something needs fixing at volume. Meanwhile, investor conversations have shifted from "how fast can you deploy" to "when do you stop bleeding." Every operational inefficiency is now visible in your utilisation numbers, and capital is your real constraint — every month of operational drag is a month of burn.
+
+### Solution
+
+EVCHARGESAAS takes the financial risk of roaming settlement defaults off your balance sheet entirely — you see 100% of transaction value, none of it exposed to partner default. Beyond roaming, the platform is built for the operational weight that comes with scale: pre-made templates that remove manual setup at every new site, automated fault detection and resolution that only escalates to your team when there's genuine risk requiring a decision, bulk updating and corrections instead of one-by-one fixes, and reporting deep enough to actually see what's happening across your network rather than piecing it together manually. Scaling past your current ceiling isn't a rebuild — it's a continuation.
+
+### Proof
+
+When a CPO has millions in monthly roaming revenue and partners who are financially unstable, the exposure is concrete and measurable — it just isn't always recognised until someone shows the math, or a partner default makes it impossible to ignore. The same is true operationally: teams often don't realise how much time manual troubleshooting and corrections are consuming until they see what automated resolution and bulk tooling free up.
+
+---
+
+## 2. One-pager — CPOs
+
+**The problem**
+You've hit an operational ceiling. The systems that scaled you to 500+ charge points won't get you to 2,000 — roaming settlement disputes are a growing finance burden, and day-to-day operations (setup, troubleshooting, corrections) are still manual at a volume where manual doesn't scale.
+
+**The solution**
+EVCHARGESAAS takes roaming settlement default risk off your balance sheet entirely. Beyond roaming, the platform is built for operational scale: pre-made templates, automated fault detection and resolution that only asks for your input when there's real risk, bulk updates and corrections, clean network views, and in-depth reporting.
+
+**Why us**
+- Full financial risk elimination on roaming settlements — no exposure to partner default
+- Automated troubleshooting — issues are identified and resolved automatically, with your team only pulled in when a decision carries real risk
+- Bulk updating and corrections — fix at the network level, not one site at a time
+- Pre-made templates and clean reporting views — see and manage your whole network without piecing it together manually
+- A platform, not a project — helps you hit the utilisation and efficiency numbers your investors are tracking
+
+**Proof**
+CPOs with significant monthly roaming revenue and financially unstable partners carry real, measurable exposure — often invisible until the math is shown, or a default forces the issue. The same pattern holds operationally: most teams underestimate how much manual work automated troubleshooting and bulk tooling actually remove until they see it in practice.
+
+**Next step:** Ready to go deeper? The right next step depends on where you are — a technical requirements review, a live demo, or an early pricing indication. [Contact name/details] can point you to the right one.
+
+---
+
+## 3. Objection handling guide — CPOs
+
+### "We can manage this with our current systems / in-house tools"
+
+**Why they're asking:** Below or near the 500 charge point threshold, many CPOs believe Excel, self-built tooling, or an entry-level solution is still sufficient.
+**The answer:** The real question isn't whether current tools technically work today — it's whether they hold up once every new site setup, every fault, and every correction has to happen manually at volume. Make the operational cost concrete: pre-made templates, automated troubleshooting, and bulk corrections exist specifically because manual handling doesn't scale linearly with network size.
+**The redirect:** *"How much of your team's time currently goes into manual site setup, troubleshooting, or corrections — and how does that scale as you grow to [X] charge points?"*
+**What not to say:** Don't dismiss their current setup outright if they're genuinely below the complexity threshold — a mis-qualified deal here becomes a churn and reference risk later.
+
+### "You're more expensive than [competitor]"
+
+**Why they're asking:** Almost always a value-articulation failure — the roaming risk exposure and operational efficiency gains haven't been made concrete yet.
+**The answer:** Reframe to total cost — unprotected roaming exposure plus the ongoing operational cost of manual processes at scale. A single significant partner default, or the accumulated time cost of manual troubleshooting and corrections, can outweigh the price difference many times over.
+**The redirect:** *"What would an overdue or defaulted roaming partner cost you in a single month — and separately, how much team time currently goes into manual operational fixes at your volume?"*
+**What not to say:** Don't discount without first making both the financial exposure and operational efficiency argument — it undercuts the value case for everyone else too.
+
+### "How do we know you can handle our transaction volume at scale?"
+
+**Why they're asking:** Investors are watching utilisation and operational efficiency closely — this prospect needs confidence the platform won't become the next bottleneck.
+**The answer:** Point to platform maturity and roaming depth, and be specific about the operational tooling built for scale — automated troubleshooting that resolves issues without manual intervention except where genuine risk requires a decision, bulk updates, and reporting built for network-wide visibility, not per-site checking.
+**The redirect:** *"What does your growth plan look like over the next 18 months, and where do you expect manual processes to strain first — setup, fault resolution, or reporting?"*
+**What not to say:** Don't make unqualified scale claims — ground the answer in specifics relevant to their trajectory.
+
+### "We're not fully investor-backed / our timeline is different"
+
+**Why they're asking:** Investor-backed CPOs behave differently from municipally funded or owner-operated ones — urgency and internal selling language vary accordingly.
+**The answer:** Adjust the framing rather than assuming investor pressure drives urgency. For non-investor-backed CPOs, the operational ceiling — manual setup, troubleshooting, and corrections not scaling with network growth — and the finance-team burden of roaming disputes are still real, independent of investor timelines.
+**The redirect:** *"Independent of investor conversations, where is operational complexity creating the most friction for your team today?"*
+**What not to say:** Don't assume investor pressure is the driver if it isn't — qualify this early rather than pitching the wrong narrative.
+
+### "We need this to also handle CRM / invoicing"
+
+**Why they're asking:** Some CPOs are looking for a more complete platform, not an EV-specific layer — this is the core qualification filter (API integrator vs. full-stack seeker) showing up directly.
+**The answer:** Be honest that this is outside scope — EVCHARGESAAS connects to existing enterprise systems via API, it doesn't replace them.
+**The redirect:** *"What does your current CRM and invoicing stack look like? We're built to integrate with that, not replace it — if you're looking for a more complete solution, that's a different conversation."*
+**What not to say:** Don't stretch the product's scope to try to win a mis-qualified deal — see WattWorks battlecard below for why this backfires.
+
+---
+
+## 4. Competitive battlecards — CPOs
+
+### vs. NexCharge
+
+**Their pitch:** Faster feature development, more commercial flexibility, strong technical sales relationships.
+**Where they're genuinely strong:** Particularly with fast-growing, technically sophisticated CPOs who value feature velocity and are comfortable with a technical sales process — this is where NexCharge shows up most in this segment.
+**Where we win:** Roaming risk elimination, operational depth at scale (automated troubleshooting, bulk tooling, in-depth reporting), and migration experience from legacy or in-house systems — NexCharge doesn't have referenceable experience with complex transitions.
+**How to win:** Don't compete on development speed. *"The question isn't who develops faster — it's whether the day-to-day platform actually reduces your operational burden as you scale, and whether they'll be there in year 3 protecting your roaming revenue."*
+**Watch for:** NexCharge closing the gap on financial stability, roaming capability, or operational tooling depth over time.
+
+### vs. WattWorks
+
+**Their pitch:** All-inclusive platform, fast feature development, appealing to smaller operators.
+**Where they're genuinely strong:** CPOs at or below the 500 charge point threshold — WattWorks may be a legitimate fit here, not a competitive loss.
+**Where we win:** Enterprise integration and large-deal capability once a CPO passes the threshold and needs both real system integration and operational tooling (automated troubleshooting, bulk corrections) built for volume, not a small-operator feature set.
+**How to win:** Treat a WattWorks mention near the threshold as a qualification conversation, not a competitive pitch. *"WattWorks is a strong fit for smaller operators who need an all-in-one platform. If you're scaling past [X] charge points and need both real system integration and tooling built for that volume, that's a different requirement."*
+**Watch for:** Any WattWorks CPO win meaningfully above the 500 charge point mark — would signal real product maturation.
+
+### vs. SparkCore
+
+**Their pitch:** Consultative, relationship-led, flexible delivery.
+**Where they're genuinely strong:** Not currently a common competitor in this segment based on available signal — flagged as lower relevance here versus Utilities, where SparkCore shows up more.
+**Where we win:** If SparkCore does appear, the same scalability gap applies — their platform has struggled with significant transaction volume and network growth, a direct risk for any CPO planning substantial growth, compounded by their more manual, services-heavy delivery model versus automated operational tooling.
+**How to win:** *"As your network grows to [X] charge points, what does your platform need to handle in transaction volume, roaming settlements, and day-to-day operations? Has that been stress-tested with SparkCore at that scale?"*
+**Watch for:** Whether SparkCore becomes more common in this segment as they invest in scalability — currently a lower-priority watch item here. 
+
+---
+
 ## How to use this with Claude
 
 \`\`\`
