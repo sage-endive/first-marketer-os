@@ -8,7 +8,7 @@
 ## Prompt
 
 ```
-I'm setting up this marketing system for a new company. Please read the following two files and confirm you understand the context before we start generating any outputs.
+I'm setting up a new marketing foundation for a  company. Please read the following two files and confirm you understand the context before we start generating any outputs.
 
 First, the system overview:
 [paste contents of CLAUDE.md]
