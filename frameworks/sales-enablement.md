@@ -133,11 +133,11 @@ REFCUST1, REFCUST2, and REFCUST3 — among the most compliance-heavy utility buy
 
 ### Problem
 
-As EV adoption grows, retail fuel revenue at existing forecourt sites faces long-term decline. This isn't a distant risk — it's already showing up in market data on shifting profit composition. The pressure isn't strategic ambition, it's defensive: capture the EV charging revenue at the same physical locations before that revenue moves elsewhere. Complicating this, EV charging initiatives in this sector are often under-resourced relative to the core fuel business, and commitment can waver when budget priorities shift or leadership changes.
+As EV adoption grows, retail fuel revenue at existing forecourt sites faces long-term decline. This isn't a distant risk — it's already showing up in market data on shifting profit composition. The pressure isn't strategic ambition, it's defensive: capture the EV charging revenue at the same physical locations before that revenue moves elsewhere. Retail fuel operators already have a payment experience their customers know and trust — pay-at-the-pump — and don't want EV charging to mean introducing a disconnected, unfamiliar payment flow at the same site.
 
 ### Solution
 
-EVCHARGESAAS gives retail fuel operators a way to capture EV charging revenue at their existing sites without taking on the operational and financial risk of building it themselves. Roaming-as-a-service protects transaction revenue as it ramps — not after it's already been eroded by partner defaults. API-first integration means this connects into whatever systems already exist, without requiring a parallel platform investment the core business has to fund and maintain.
+EVCHARGESAAS gives retail fuel operators a way to capture EV charging revenue at their existing sites without taking on the operational burden of building it themselves. It integrates cleanly with the payment infrastructure they already run — connecting EV charging to their existing pay-at-the-pump systems and major payment service providers (PSPs), including custom integrations where needed. The retailer keeps full control of the customer experience; EVCHARGESAAS handles the integration work behind it.
 
 ### Proof
 
@@ -148,16 +148,16 @@ Industry data offers a starting point for the conversation, not a closing argume
 ## 2. One-pager — Oil/Gas & Retail Fuel
 
 **The problem**
-EV adoption is reshaping forecourt economics — fuel retail revenue at your existing sites is under long-term pressure, and the profit mix is already shifting toward non-fuel sources. The opportunity is to capture EV charging revenue at the same locations before it moves elsewhere.
+EV adoption is reshaping forecourt economics — fuel retail revenue at your existing sites is under long-term pressure. Your customers already know and trust your pay-at-the-pump experience; EV charging shouldn't mean bolting on a disconnected payment flow.
 
 **The solution**
-EVCHARGESAAS gives you the infrastructure to capture EV charging revenue at your existing sites — without taking on the financial risk or operational burden of building it yourself. Roaming-as-a-service protects your revenue as it grows. API-first integration means no parallel platform to fund and maintain.
+EVCHARGESAAS gives you the infrastructure to capture EV charging revenue at your existing sites, integrated cleanly with the payment systems you already run. We connect to your existing pay-at-the-pump setup and major PSPs, including custom integrations where needed — so you keep control of the customer experience without taking on the integration burden yourself.
 
 **Why us**
-- Roaming settlement risk protection — your EV charging revenue isn't exposed to partner default as it ramps
+- Seamless payment integration — connects to your existing pay-at-the-pump systems and major PSPs, plus custom integrations where required
+- You design the customer experience; we handle the integration work behind it
 - API-first architecture — connects to what you already run, no rip-and-replace
 - Financial stability in a market with real competitor failures — a durable partner for a multi-year transition
-- Built to scale with you, without requiring dedicated internal engineering investment
 
 **Proof**
 Industry forecasts point to a real and accelerating shift — KPMG projects up to 80% of fuel retail profit could come from non-fuel sources by the mid-2030s. What do your own projections show?
@@ -182,6 +182,13 @@ Industry forecasts point to a real and accelerating shift — KPMG projects up t
 **The redirect:** *"If this waits another budget cycle, what does that mean for the pace at which you're capturing this revenue versus competitors already moving?"*
 **What not to say:** Avoid pressure tactics — this segment's champion is typically insulated from personal risk, so urgency has to come from the business case itself, not from fear.
 
+### "How does this fit with our existing payment setup?"
+
+**Why they're asking:** These operators have an established pay-at-the-pump experience their customers trust, and don't want EV charging to introduce a separate, disconnected payment flow at the same site.
+**The answer:** EVCHARGESAAS integrates directly with existing pay-at-the-pump infrastructure and major PSPs, including custom integrations where needed. The retailer retains full control over how the customer experience looks and feels — EVCHARGESAAS handles the integration work, not the customer-facing design.
+**The redirect:** *"What does your current payment stack look like, and who are your existing PSP relationships? We'll show you exactly how EV charging plugs into that."*
+**What not to say:** Don't imply the retailer has to adopt a new or separate payment experience for EV charging — that undercuts the core value proposition for this segment.
+
 ### "How do we know this stays a priority internally?"
 
 **Why they're asking:** This segment has a real pattern of entering and exiting EV charging commitments — the prospect may be self-aware about that volatility, or you may need to surface it.
@@ -193,7 +200,7 @@ Industry forecasts point to a real and accelerating shift — KPMG projects up t
 
 **Why they're asking:** Some retail fuel operators may consider an internal build, especially if there's existing IT capability from the core business.
 **The answer:** Unlike large utilities, this segment typically doesn't have deep dedicated software engineering capability to sustain a competitive in-house build — surface that gap directly, respectfully.
-**The redirect:** *"What's the opportunity cost of your team building and maintaining EV charging infrastructure software, versus focusing on your core retail business?"*
+**The redirect:** *"What's the opportunity cost of your team building and maintaining EV charging infrastructure software and payment integrations, versus focusing on your core retail business?"*
 **What not to say:** Don't assume they have utility-scale engineering resources behind them — check first.
 
 ---
@@ -204,25 +211,25 @@ Industry forecasts point to a real and accelerating shift — KPMG projects up t
 
 **Their pitch:** Consultative, relationship-led, flexible, good listeners.
 **Where they're genuinely strong:** Especially appealing to a newer, less experienced EV charging team without a dedicated mobility unit — the hand-holding approach can feel reassuring to a small or inexperienced internal team.
-**Where we win:** Technology scalability and roaming capability, particularly as the initiative grows beyond a pilot.
-**How to win:** Don't attack the relationship — surface the scale question. *"As this grows beyond your first sites, what does your platform need to handle in transaction volume and roaming settlements? Has SparkCore been stress-tested at that scale?"*
+**Where we win:** Payment integration depth and platform scalability, particularly as the initiative grows beyond a pilot.
+**How to win:** Don't attack the relationship — surface the integration and scale question. *"As this grows beyond your first sites, how does SparkCore handle integration with your existing pay-at-the-pump systems and PSPs — and has that been tested at scale?"*
 **Watch for:** This is a hypothesis, not yet validated against real deals in this segment — confirm or correct based on real sales experience.
 
 ### vs. WattWorks
 
 **Their pitch:** All-inclusive, fast, cheaper-feeling, modern positioning.
 **Where they're genuinely strong:** May appeal if the initiative is being run as a limited-budget side project rather than a fully resourced division — WattWorks can look like the lower-commitment option.
-**Where we win:** Enterprise integration and long-term scalability. A poor structural fit if the operator later needs to integrate with real enterprise systems or scale meaningfully.
-**How to win:** Treat a WattWorks mention as a possible mis-qualification signal, not just a competitive threat — confirm the prospect's actual scale ambition before positioning against them directly. *"WattWorks is a strong fit for a lighter-weight, standalone setup. If you're planning to integrate this with your existing systems or scale significantly, that's a different requirement."*
-**Watch for:** Whether this pattern holds in real deals — currently unvalidated.
+**Where we win:** Enterprise and payment integration — WattWorks's all-inclusive model may not connect cleanly to an existing pay-at-the-pump and PSP setup the way an API-first integration does. A poor structural fit if the operator needs the EV payment experience to feel native to their existing one.
+**How to win:** Treat a WattWorks mention as a possible mis-qualification signal, not just a competitive threat — confirm the prospect's actual integration needs before positioning against them directly. *"WattWorks is a strong fit for a lighter-weight, standalone setup. If you need this integrated cleanly with your existing pay-at-the-pump systems and PSPs, that's a different requirement."*
+**Watch for:** Whether this pattern holds in real deals.
 
 ### vs. NexCharge
 
 **Their pitch:** Feature velocity, technical sales strength, commercial flexibility.
 **Where they're genuinely strong:** Less clearly differentiated in this segment specifically than in Utilities — NexCharge's technical selling motion assumes a sophisticated buyer, which may not always match this segment's typically leaner EV charging team.
-**Where we win:** Roaming risk elimination and financial stability — the same advantages as in other segments.
-**How to win:** *"The question is not who develops faster. It is whether they will be there in year 3 of this initiative — and whether their model protects your revenue as it ramps."*
-**Watch for:** Whether NexCharge is a common competitor in this segment at all — this hasn't been tested.
+**Where we win:** Payment integration flexibility and financial stability — the ability to connect cleanly to existing PSPs and custom payment setups without the retailer taking on the integration burden.
+**How to win:** *"The question isn't who develops faster. It's whether they can integrate cleanly with the payment systems your customers already trust — and whether they'll be there in year 3 of this initiative."*
+**Watch for:** Whether NexCharge is a common competitor in this segment at all. 
 
 ---
 
