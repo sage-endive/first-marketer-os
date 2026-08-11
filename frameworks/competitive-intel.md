@@ -11,8 +11,8 @@
 
 | | |
 |---|---|
-| **Status** | Hypothesis — single marketer perspective, not validated with sales team or win/loss data |
-| **Source** | EVCHARGESAAS marketer brain dump, company research briefs |
+| **Status** | Hypothesis — single marketer perspective and win/loss data, not yet further validated with sales team |
+| **Source** | EVCHARGESAAS marketer brain dump, company research briefs, win/loss data |
 | **Confidence** | High on NexCharge (most common competitor) · Medium on WattWorks and SparkCore and FlowIn · Lower on in-house dynamics · Lowest on competitive dynamics for Oil/Gas & Retail Fuel|
 | **Next step to validate** | Win/loss review with sales team · 3–5 customer interviews asking "who else did you evaluate?" · Quarterly sales debrief |
 | **Do not treat as gospel** | Competitor capabilities change fast in emerging markets. Treat every profile as a hypothesis to update, not a fact to repeat. |
