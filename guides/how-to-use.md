@@ -71,7 +71,9 @@ Click the pencil icon (✏️) in the top right of any file. Edit in the browser
 | 2–3 | Build positioning | `/frameworks/positioning.md` + ICP |
 | 3–4 | Map competitive landscape | `/frameworks/competitive-intel.md` |
 | 4–6 | Build campaign system | `/frameworks/campaign-system.md` |
-| Ongoing | Sales enablement | `/frameworks/sales-enablement.md` |
+| Ongoing | Sales enablement — pre-built artifacts by segment (narrative, one-pager, objections, battlecards) | `/frameworks/sales-enablement.md`, sourced from ICP, positioning, competitive-intel |
+
+**Note on sales enablement:** Unlike the other frameworks, `/frameworks/sales-enablement.md` is not a template to populate — it's pre-built content for each ICP segment, sourced directly from the ICP, positioning, and competitive-intel frameworks. If any of those three change materially, revisit sales-enablement — the file's own header includes instructions for flagging what's now inconsistent.
 
 ---
 
@@ -82,7 +84,7 @@ Personas are defined in `/personas/`. To invoke one, simply name it at the start
 - *"CMO, review this go-to-market strategy"*
 - *"Editor, tighten this one-pager"*
 - *"Commercial Head, sense-check this campaign budget"*
-- *"Fact Checker, review this before it goes to the board"*
+
 
 Personas are available in Claude.ai Projects (if you've uploaded the persona file) and in Claude Code (they're in the repo).
 
