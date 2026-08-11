@@ -8,7 +8,7 @@
 ## Prompt
 
 ```
-I'm setting up a new marketing foundation for a  company. Please read the following two files and confirm you understand the context before we start generating any outputs.
+I'm setting up a new marketing foundation for a company. Please read the following two files and confirm you understand the context before we start generating any outputs.
 
 First, the system overview:
 [paste contents of CLAUDE.md]
@@ -17,7 +17,7 @@ Second, the company context:
 [paste contents of /company-context/[company-name]/context.md]
 
 Once you've read both:
-1. Summarise the company in 3 sentences — what they do, who they sell to, and what stage they're at
+1. Summarise the company in 3 sentences — what they do, who they sell to, and at what stage they are
 2. List the top 3 things that seem most important to get right for marketing at this company
 3. Flag any gaps in the context doc that would limit the quality of marketing outputs
 
