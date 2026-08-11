@@ -13,7 +13,7 @@
 |---|---|
 | **Status** | Hypothesis — single marketer perspective, not validated with sales team or win/loss data |
 | **Source** | EVCHARGESAAS marketer brain dump, company research briefs |
-| **Confidence** | High on NexCharge (most common competitor) · Medium on WattWorks and SparkCore · Lower on in-house dynamics · Lowest on competitive dynamics for Oil/Gas & Retail Fuel and eMSP segments — not yet tested against real deals |
+| **Confidence** | High on NexCharge (most common competitor) · Medium on WattWorks and SparkCore and FlowIn · Lower on in-house dynamics · Lowest on competitive dynamics for Oil/Gas & Retail Fuel|
 | **Next step to validate** | Win/loss review with sales team · 3–5 customer interviews asking "who else did you evaluate?" · Quarterly sales debrief |
 | **Do not treat as gospel** | Competitor capabilities change fast in emerging markets. Treat every profile as a hypothesis to update, not a fact to repeat. |
 
@@ -26,7 +26,9 @@
 | **NexCharge** | Pure-play EV platform, strong technical sales | Feature velocity, commercial flexibility, relationships | Roaming depth, migration experience | High — most common named competitor |
 | **WattWorks** | Full-stack, all-inclusive platform | Small operators, feature breadth, speed | Enterprise scale, complex integration | Medium — different market, but pollutes pipeline |
 | **SparkCore** | Services-heavy, consultative | Relationships, flexibility, listening | Own tech scalability, transaction volume | Medium — wins on trust, loses on scale |
+| **FlowIn** | eMSP specific. Infrastructure layer for brands (energy companies, OEMs, mobility providers) to become an eMSP; "MSP 2.0" vehicle-optimisation positioning | eMSP bundling, vehicle connectivity, smart/home charging optimisation | Public roaming network breadth, enterprise system integration | Medium-High in eMSP segment |
 | **In-house / stay with existing** | Internal IT build or incumbent system | Politics, bespoke fit, IT capability | True cost over time, time to capability | High — often the real decision |
+
 
 ---
 
@@ -122,6 +124,36 @@ The goal is to make them ask SparkCore the hard questions, not to make claims th
 
 ---
 
+## Competitor 3: FlowIn
+
+**Website:** FlowIn.com
+**Profile:** Positions itself as the infrastructure layer that lets an energy company, OEM, mobility provider, or other brand become an eMSP. Pushing hard into a "MSP 2.0" concept — using the eMSP's relationship with the vehicle to optimise charging against electricity prices and grid conditions, rather than simply selling access to public chargers. Structurally different from the other three named competitors: not primarily a CPMS or roaming-hub competitor, but an all-in-one eMSP enablement bundle.
+
+### Where they genuinely beat EVCHARGESAAS
+
+- **All-in-one eMSP bundle:** Pay-as-you-grow, session- and car-based pricing bundles the white-label app, billing engine, CPO settlement, and home reimbursement into a single core proposition. This replaces what would otherwise be several separately integrated components — CPMS, roaming hub, eMSP frontend, billing, and vehicle API layer — with one vendor relationship.
+- **Vehicle connectivity depth:** Claims support for 40+ vehicle brands and roughly 95% of vehicle models for connected-car functionality — a meaningfully different technical claim than anything EVCHARGESAAS competes on directly.
+- **Smart/home charging optimisation:** The "MSP 2.0" positioning — optimising charging against electricity price and grid conditions via the vehicle relationship — is a genuinely different value proposition than public network access, and may resonate strongly with eMSPs whose subscribers charge primarily at home.
+
+### Where EVCHARGESAAS genuinely beats FlowIn
+
+- **Public roaming network breadth:** FlowIn's pitch centers on the vehicle relationship and home/smart charging, not public charge-anywhere coverage. For eMSPs whose subscribers rely heavily on public charging — not just home charging — EVCHARGESAAS's larger, still-growing public roaming network is a real differentiator.
+- **Clean integration vs. full bundle replacement:** EVCHARGESAAS is built for eMSPs that already have enterprise CRM and invoicing systems and want an EV-specific layer that connects via API — not a full-stack replacement. FlowIn's bundled model is a poor fit for an eMSP that doesn't want to replace systems it already has and trusts.
+
+### How to win against FlowIn
+
+Do not compete on bundle breadth — that's a genuinely different model, not a feature gap EVCHARGESAAS is missing. Qualify what the eMSP actually needs instead:
+
+*"Is your priority optimising home and smart charging around the vehicle, or making sure your subscribers have reliable public charging coverage wherever they go? And do you already have CRM and billing systems you'd want this to plug into, or are you looking for a full bundle?"*
+
+If public network reliability and clean integration with existing systems matter more to the prospect than an all-in-one bundle, that's where EVCHARGESAAS is the stronger fit.
+
+### Watch for
+
+- FlowIn's public roaming network expanding — if public charging coverage closes the gap while FlowIn retains its bundled all-in-one model, the "different proposition" framing becomes harder to use
+- Whether FlowIn moves beyond the eMSP segment into CPO or utility conversations — currently is eMSP-specific, but worth monitoring
+---
+
 ## The real competitor: Stay with in-house
 
 This is the competitive alternative that appears least on pipeline reports and matters most in enterprise deals. Build vs. buy and stay-with-incumbent decisions kill more pipeline than any named competitor — and are almost never tracked properly.
@@ -181,7 +213,7 @@ Competitor relevance is not uniform across segments. This section is a hypothesi
 
 ### eMSPs
 
-**Primary threat:** NexCharge, where the eMSP has strong technical requirements and wants a highly customizable integration.
+**Primary threat:** NexCharge, where the eMSP has strong technical requirements and wants a highly customizable integration. FlowIn is also a primary consideration here — a structurally different competitor offering an all-in-one eMSP enablement bundle rather than a CPMS/roaming competitor. Qualify early on whether the prospect wants a bundled vehicle-optimisation platform or a clean integration layer for existing systems.
 
 **Lower relevance:** SparkCore's consultative, relationship-heavy model is a weaker fit here — eMSPs are optimizing for fast, clean, low-touch integration (see positioning persona notes), not a high-touch service relationship. WattWorks is plausible only for smaller eMSPs below the 25,000 subscriber threshold, where it may be a legitimate fit rather than a competitive loss.
 
