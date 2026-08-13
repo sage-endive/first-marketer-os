@@ -97,14 +97,14 @@ Key conventions:
 - Collective nouns: treat as plural (e.g. "the team are" not "the team is")
 
 ### Dutch
-Apply when content is written in Dutch. 
+Apply when content is written in Dutch.
+
 Key conventions:
-- Formality register: check the company style guide for whether to use je/jij (informal, increasingly common in B2B) or u (formal, used in highly regulated industries or with older audiences). If not specified, flag it — this is a company-level decision.
-- Sentence structure: preference towards shorter sentences. Dutch has a tendency toward long compound sentences — flag and suggest splitting where readability suffers.
-- Anglicisms: flag unnecessary English loanwords where a good Dutch equivalent exists. Exception: established industry terminology (e.g. "software," "platform") is acceptable.
-- Gender inclusivity: Use gender-neutral alternatives where possible (e.g. "medewerkers" not "medewerkers en medewerkeressen").
-- Tone: Tend towards direct and pragmatic. Avoid overly formal or flowery constructions.
-- 
+- Formality register: Dutch has a genuine je/jij (informal) vs. u (formal) distinction. Check the company style guide for which applies — if not specified, flag it as a company-level decision.
+- Gender-neutral forms: Dutch has gender-neutral alternatives available for many role/person nouns (e.g. "medewerkers" instead of "medewerkers en medewerkeressen"). Use them unless the company style guide specifies otherwise.
+- Sentence structure: Dutch has a structural tendency toward long compound sentences. Check the company style guide's language-specific conventions for sentence length preference — if not specified, no action needed.
+- Anglicisms: check the company style guide's language-specific conventions for anglicism policy. Established industry terminology (e.g. "software," "platform") is generally acceptable regardless.
+
 ### German
 Apply when content is written in German
 Key conventions:
