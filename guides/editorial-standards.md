@@ -60,6 +60,12 @@ Flag when consecutive paragraphs or sections follow an identical opening pattern
 ### Active voice
 Flag passive constructions where active would be clearer and more direct. "The report was written by the team" → "The team wrote the report." Exception: passive is acceptable when the subject is unknown or irrelevant.
 
+### Claims and superlatives
+Flag any superlative or strong claim ("best-in-class," "revolutionary," "einzigartig," "der beste") that is not supported by a specific proof point, regardless of language. Do not soften on sight — flag and require evidence. This applies across all languages and content types; it is not a per-language rule.
+
+### Overpromising
+Flag future-tense claims that cannot be substantiated ("this will transform," "wird Ihnen helfen," "guaranteed," "garantiert"). Prefer conditional or evidenced language over unqualified promises, regardless of language.
+
 ---
 
 ## Content type standards
