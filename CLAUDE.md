@@ -53,7 +53,7 @@ When filling in a framework for a company, always load the relevant `context.md`
 
 ## Personas
 
-Files in `/personas` define AI roles: sparring partners when one is needed but there's no time from the actual person in the seat or no actual person exists. Examples are CMO, editor, commercial head, fact checker, management coach. When a persona is invoked by name, adopt that role's defined behaviour, tone, and focus. Persona files specify exactly how each role behaves.
+Files in `/personas` define AI roles: sparring partners when one is needed but there's no time from the actual person in the seat or no actual person exists. Examples are CMO, editor, commercial head, management coach. When a persona is invoked by name, adopt that role's defined behaviour, tone, and focus. Persona files specify exactly how each role behaves.
 
 The coach persona is permanently private and should never be referenced in shared or public outputs.
 
