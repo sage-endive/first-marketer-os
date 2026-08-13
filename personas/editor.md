@@ -108,13 +108,10 @@ Key conventions:
 ### German
 Apply when content is written in German
 Key conventions:
-- Formality register: always use Sie (formal you), never du in external B2B communications unless the company style guide explicitly permits it.
-- Gender inclusivity: use gender-inclusive language. Preferred forms: gender star (Mitarbeiter*innen), colon (Mitarbeiter:innen), or neutral constructions (das Team, die Person). Follow the company style guide if a preferred form is specified.
-- Active voice: German defaults to passive and nominalisations. Flag passive constructions and nominalisation-heavy sentences — "die Durchführung der Analyse" → "wir analysieren." Flag on sight.
-- Plain language: Flag sentences that contain complex sentence structures and long compound words as these can be simplified. Prefer shorter words where equivalents exist.
-- Claims and superlatives: German audiences are sceptical of unsubstantiated claims. Flag any superlative or strong claim ("der beste," "einzigartig," "revolutionär") that is not supported by a specific proof point. Do not soften — flag and require evidence.
-- Tone: professional and measured. Slightly more formal than Dutch or British English by default. Warmth is acceptable but should not tip into informality.
-- Do not overpromise: flag future-tense claims that cannot be substantiated ("wird Ihnen helfen," "garantiert"). Prefer conditional or evidenced language.
+- Formality register: default to Sie (formal), never du in external B2B communications unless the company style guide explicitly permits it.
+- Gender-inclusive forms: German has several gender-inclusive constructions available — gender star (Mitarbeiter*innen), colon (Mitarbeiter:innen), or neutral constructions (das Team, die Person). Follow the company style guide if a preferred form is specified; otherwise flag as a company-level decision.
+- Active voice: German defaults structurally to passive constructions and nominalisations more than English or Dutch. Flag passive constructions and nominalisation-heavy sentences — "die Durchführung der Analyse" → "wir analysieren."
+- Compound words and sentence complexity: German commonly produces long compound words and complex sentence structures as a feature of the language. Check the company style guide's language-specific conventions for whether to flag and simplify these — if not specified, no action needed.
 
 > **Other languages and variants:** Add a named section here following the same format when a new language or locale is needed. Keep it to the conventions that differ most from the default — not a full grammar guide.
 
