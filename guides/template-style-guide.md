@@ -69,6 +69,19 @@ Things we always do regardless of context:
 
 ---
 
+## Language-specific style conventions
+
+> Only fill in for languages where your preference differs from the language's neutral default. The Editor applies neutral language conventions automatically (see `personas/editor.md`) — use this section to override or add company-specific preference on top.
+
+| Language | Convention | Company preference |
+|---|---|---|
+| Dutch | Sentence length | (e.g. prefer shorter sentences / no strong preference) |
+| Dutch | Anglicisms | (e.g. avoid where a Dutch equivalent exists / acceptable, specify exceptions) |
+| Dutch | Tone | (e.g. direct and pragmatic / other) |
+| German | Tone | (e.g. measured and professional / warmer / other) |
+| German | Sentence complexity | (e.g. simplify long compounds where possible / no strong preference) |
+---
+
 ## Grammar and mechanics
 
 **Oxford comma:** Use / Do not use
