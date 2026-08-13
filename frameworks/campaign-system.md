@@ -1,7 +1,7 @@
 # Campaign & Content System
 
 > **How to use this file**
-> Two parts: reusable structure and worked examples drawn from EVCHARGESAAS and broader first marketer experience. This framework is more transferable than the ICP or positioning docs — the principles apply across B2B companies at similar stages. Swap in your company context for the specifics.
+> Two parts: reusable structure and worked examples drawn from broad first marketer experience. This framework is more transferable than the ICP or positioning docs — the principles apply across B2B companies at similar stages, but should always be checked against the reality of the market and company. Swap in your company context for the specifics.
 >
 > Do not start any campaign before completing the pre-campaign checklist in Part 1. Running campaigns into broken infrastructure is spending money to generate noise.
 
@@ -11,8 +11,8 @@
 
 | | |
 |---|---|
-| **Status** | Hypothesis — built from experienced marketer brain dump, not yet validated against a specific company's data |
-| **Source** | Multi-company first marketer experience, anchored in EVCHARGESAAS |
+| **Status** | Hypothesis — built from experienced marketer, not yet validated against a specific company's data |
+| **Source** | Multi-company first marketer experience |
 | **Confidence** | High on sequencing logic and pre-campaign audit · High on demo and pilot frameworks · Medium on channel-specific tactics (vary by company and market) |
 | **Next step to validate** | Apply to current company context · Review with sales lead · Adjust sequencing based on GTM motion and stage |
 | **Do not treat as gospel** | Campaign priorities depend heavily on GTM motion, company stage, and market. Always start with GTM clarity before building anything here. |
@@ -95,17 +95,17 @@ The fastest way to have marketing impact is to solve the problem sales is alread
 
 Look for repeatable themes. One sales rep's frustration is anecdote. Three sales reps saying the same thing is a campaign brief.
 
-### The highest-leverage points in the funnel
+### Possible high-leverage points in the funnel
 
-Most B2B marketing plans overinvest in top-of-funnel awareness and underinvest in the moments that actually determine revenue. In most B2B companies at early-to-growth stage, the highest-leverage interventions are:
+Most B2B marketing plans overinvest in top-of-funnel awareness and underinvest in the moments that actually determine revenue. Depending on GTM motion and stage, some of the highest-leverage interventions worth considering are:
 
 1. **The demo** — the moment where product-fit is established or lost
 2. **The pilot** — the moment where technical and commercial confidence is built or broken
 3. **The first 30 days of onboarding** — the moment where the customer decides whether they made the right choice
 
-These moments are often owned by nobody in particular. Marketing should own the materials, narrative, and structure for all three — even if sales or customer success runs them.
+These moments are often owned by nobody in particular. Where they are a priority, marketing should own the materials, narrative, and structure — even if sales or customer success runs them.
 
-> **Counterintuitive principle:** A well-running demo loop and a great onboarding experience will do more for pipeline and expansion revenue than most awareness campaigns. Fix the funnel before filling it.
+> **Worth considering:** A well-running demo loop and a strong onboarding experience can do more for pipeline and expansion revenue than an awareness campaign, depending on where the current funnel is weakest. Fix what's broken before filling the top of the funnel with more traffic.
 
 ---
 
@@ -246,7 +246,7 @@ No campaign sequencing is meaningful without clarity on who you are selling to, 
 
 **Medium-term (months 4–8):**
 - Channel strategy — once content exists and the demo works, decide which channels to invest in based on where the ICP actually is, not where it is easiest to advertise
-- ABM — if the ICP is narrow and high-value (as in utility enterprise deals), account-based marketing is more efficient than broad demand generation. Requires a clean account list and sales alignment.
+- ABM — if the ICP is narrow and high-value, account-based marketing is more efficient than broad demand generation. Requires a clean account list and sales alignment.
 - Case studies and references — the first 2–3 customer stories are the most valuable marketing assets at this stage. Prioritise getting them.
 
 **Ongoing:**
@@ -303,8 +303,7 @@ Using the company context as input, produce a 90-day campaign plan for [company 
 
 Include:
 - Pre-campaign audit checklist with any known gaps flagged
-- The 3 highest-leverage marketing interventions for this company right now
-  based on their stage and GTM motion
+- The 3 highest-leverage marketing interventions for this company right now based on their stage and GTM motion
 - A sequencing recommendation for the first 90 days
 - The first content pieces to produce and why
 - What to defer and why
@@ -315,5 +314,5 @@ Flag any information missing from the context doc that would change the recommen
 ---
 
 *Based on: multi-company first marketer experience*
-*Built: June 2026*
+*Built: April 2026*
 *Update trigger: GTM motion changes, new channel learnings, stage progression*
