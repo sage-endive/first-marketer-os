@@ -314,6 +314,6 @@ Flag any information missing from the context doc that would change the recommen
 
 ---
 
-*Based on: EVCHARGESAAS and multi-company first marketer experience*
-*Built: April 2026*
+*Based on: multi-company first marketer experience*
+*Built: June 2026*
 *Update trigger: GTM motion changes, new channel learnings, stage progression*
