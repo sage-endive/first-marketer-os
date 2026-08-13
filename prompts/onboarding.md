@@ -38,5 +38,5 @@ Claude should return:
 ## Next steps after running this
 
 1. Close the gaps Claude flagged (update `/company-context/[company-name]/context.md`)
-2. Move to `/prompts/icp-first-pass.md` to generate your first ICP draft
+2. Generate your first ICP draft — use the "How to use this with Claude" prompt at the bottom of `/frameworks/icp-personas.md`
 3. Check `/guides/how-to-use.md` for the recommended sequencing
