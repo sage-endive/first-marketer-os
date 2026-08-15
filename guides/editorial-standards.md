@@ -111,8 +111,34 @@ Lighter editorial standards. Clarity over polish.
 > **Status: Placeholder — to be built out per sub-type**
 > When a sub-type is defined, add it here as a named section with its specific rules. The Editor references this section when a sub-type is invoked.
 
-### LinkedIn post
-*Rules to be defined.*
+### LinkedIn post thought leadership (company account)
+Purpose: Build authority, spark conversation, share a perspective. 
+Voice & tone: 
+Structure: First line hook under 210 characters. 3-5 hashtags. No links in body content (it goes in the first comment). Tag less than 10 people.
+Length: Aim for between 1,200-1,600 characters (150 to 400 words), with an absolute maximum of 3,000 characters.
+
+### LinkedIn post promotional (company account)
+Purpose: Build authority, spark conversation, share a perspective. 
+Voice & tone: 
+Structure: 3-5 hashtags
+CTA: 
+Length: 100-250 words 
+
+### LinkedIn post thought leadership (individual account)
+Purpose: Build authority, spark conversation, share a perspective. 
+Voice & tone: 
+Structure: 3-5 hashtags
+CTA: 
+Length: 100-250 words 
+*tailor to the individual as needed*
+
+### LinkedIn post advocacy (individual account)
+Purpose: Build authority, spark conversation, share a perspective. 
+Voice & tone: 
+Structure: 3-5 hashtags
+CTA: 
+Length: 100-250 words 
+*tailor to the individual as needed, consider creating a skill for ghostwriting*
 
 ### Email (nurture)
 *Rules to be defined.*
