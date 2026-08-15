@@ -58,7 +58,7 @@ Only after these three does it make sense to build campaigns.
 ### Sales process audit
 
 - [ ] Sales team is following up on inbound leads within an agreed SLA
-- [ ] Hot lead response time is measured and acceptable
+- [ ] Hand raiser response time is measured and acceptable
 - [ ] Sales and marketing agree on the definition of a qualified lead (MQL to SQL handoff)
 - [ ] There is a process for leads that go cold — not just dropping them
 
@@ -97,7 +97,7 @@ Look for repeatable themes. One sales rep's frustration is anecdote. Three sales
 
 ### Possible high-leverage points in the funnel
 
-Most B2B marketing plans overinvest in top-of-funnel awareness and underinvest in the moments that actually determine revenue. Depending on GTM motion and stage, some of the highest-leverage interventions worth considering are:
+Many B2B marketing plans overinvest in top-of-funnel awareness and underinvest in the moments that actually determine revenue. Depending on GTM motion and stage, some of the highest-leverage interventions worth considering are:
 
 1. **The demo** — the moment where product-fit is established or lost
 2. **The pilot** — the moment where technical and commercial confidence is built or broken
