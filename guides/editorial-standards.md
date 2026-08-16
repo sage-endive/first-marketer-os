@@ -126,19 +126,18 @@ Length: 50-150 words
 CTA style: Explicit. For example, "Meet us at booth x" or "Schedule here" or "See what's new"
 
 ### LinkedIn post thought leadership (individual account)
-Purpose: build personal credibility and expertise
+Purpose: Build personal credibility and expertise.
 Voice & tone: Genuine, authentic, idiosyncratic.
-Structure: 0-2 hashtags, avoid #companyname
-Length:   
-CTA style: 
-
+Structure: Personal hook should be a moment, a mistake, a pattern noticed, a strong claim. Not "I've been thinking about..." throat-clearing. Should read as one person's take, not a company-approved summary. Fine to be unresolved or opinionated rather than tidy. Doesn't need to mention the company at all. 0-2 hashtags 
+Length: 150–300 words (roughly 900–1,600 characters). A sharp 100-word take works fine on a personal account in a way it wouldn't for a brand.   
+CTA style: Soft or none. Ending on the insight itself is fine — "conversion" here is credibility, not action. If there's a CTA, it's an invitation to disagree or share experience, for example, "Anyone else seeing this?"
 
 ### LinkedIn post advocacy (individual account)
 Purpose: Achieve personal reach behind a company moment.
-Voice & tone: 
-Structure: Must have a genuine personal 2-3 hashtags
+Voice & tone: Personal and genuinely enthusiastic — "I'm proud/excited that we..." framing. Should sound like a real reaction, not a repost with pronouns swapped.
+Structure: Personal angle first (why this matters to this person specifically — their role in it, what they're looking forward to, a stat or detail that struck them), then the news, told from their vantage point rather than as a formal announcement. Built from provided talking points, written in the person's own words — not copy-pasted from the company post. 2-3 hashtags are enough to connect to company moment but not make it sound like a corporate post.
 Length: 100-250 words 
-CTA Style: 
+CTA Style: Explicit, but framed as a personal recommendation rather than a directive — "I'll be at booth X, come find me" instead of "Meet us at booth X."
 
 ### Email (nurture)
 *Rules to be defined.*
