@@ -112,31 +112,47 @@ Lighter editorial standards. Clarity over polish.
 > When a sub-type is defined, add it here as a named section with its specific rules. The Editor references this section when a sub-type is invoked.
 
 ### LinkedIn post perspective (company account)
-Purpose: Build authority, spark conversation, share a perspective. 
+Purpose: Build authority, spark conversation, share a perspective.
+
 Voice & tone: Confident, conversational.
+
 Structure: First line hook under 210 characters. Short paragraphs and lots of white space. Don't shy away from a numbered list, a bolded takeaway, or contrarian angle. 3-5 hashtags. No links in body content (it goes in the first comment). Tag less than 10 people.
+
 Length: Aim for between 1,200-1,600 characters (150 to 400 words), with an absolute maximum of 3,000 characters.
+
 CTA style: Soft. For example, "Would love your take" or "Curious what others think"
 
 ### LinkedIn post promotional (company account)
 Purpose: Drive a specific, time-bound action around an event or release.
+
 Voice & tone: Declarative and confident. 
+
 Structure: Lead with news in first line rather than a teaser. Use one supporting line on why it matters to the reader, avoid "we're excited to announce". Copy should assume the accompanying image carries some of the load. Event promotions must include date, location, format, and indicate what the reader gets by showing up. Releases must include what's new or different, and what is the outcome for the user. 3-5 hashtags
+
 Length: 50-150 words 
+
 CTA style: Explicit. For example, "Meet us at booth x" or "Schedule here" or "See what's new"
 
 ### LinkedIn post thought leadership (individual account)
 Purpose: Build personal credibility and expertise.
+
 Voice & tone: Genuine, authentic, idiosyncratic.
+
 Structure: Personal hook should be a moment, a mistake, a pattern noticed, a strong claim. Not "I've been thinking about..." throat-clearing. Should read as one person's take, not a company-approved summary. Fine to be unresolved or opinionated rather than tidy. Doesn't need to mention the company at all. 0-2 hashtags 
+
 Length: 150–300 words (roughly 900–1,600 characters). A sharp 100-word take works fine on a personal account in a way it wouldn't for a brand.   
+
 CTA style: Soft or none. Ending on the insight itself is fine — "conversion" here is credibility, not action. If there's a CTA, it's an invitation to disagree or share experience, for example, "Anyone else seeing this?"
 
 ### LinkedIn post advocacy (individual account)
 Purpose: Achieve personal reach behind a company moment.
+
 Voice & tone: Personal and genuinely enthusiastic — "I'm proud/excited that we..." framing. Should sound like a real reaction, not a repost with pronouns swapped.
+
 Structure: Personal angle first (why this matters to this person specifically — their role in it, what they're looking forward to, a stat or detail that struck them), then the news, told from their vantage point rather than as a formal announcement. Built from provided talking points, written in the person's own words — not copy-pasted from the company post. 2-3 hashtags are enough to connect to company moment but not make it sound like a corporate post.
+
 Length: 100-250 words 
+
 CTA Style: Explicit, but framed as a personal recommendation rather than a directive — "I'll be at booth X, come find me" instead of "Meet us at booth X."
 
 ### Email (nurture)
