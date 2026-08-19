@@ -4,7 +4,7 @@
 >
 > Absolutely not a software developer, I'm using AI to design and build practical tools, automate workflows, extend my finite time and efficiency limitations, and explore new ways of solving real business problems.
 > 
-> The code in this repository is one part of the story. More importantly, it reflects my ability to identify opportunities, translate ideas into working solutions with AI, and create resources from which others can evaluate and learn. Please note any and all company-specific content is fictitious, and meant only to illustrate the usage of the framework.
+> The work in this repository is one part of the story. More importantly, it reflects my ability to identify opportunities, translate ideas into working solutions with AI, and create resources from which others can evaluate and learn. Please note any and all company-specific content is fictitious, and meant only to illustrate the usage of the framework.
 > 
 > This repository is shared for portfolio and evaluation purposes and is not licensed for reuse. Please see the LICENSE file for details.
 
