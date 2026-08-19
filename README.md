@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Repository Notice**\
+> This project demonstrates how I use AI as a multiplier in my marketing work.
+>
+> Absolutely not a software developer, I'm using AI to design and build practical tools, automate workflows, extend my finite time and efficiency limitations, and explore new ways of solving real business problems.
+> 
+> The code in this repository is one part of the story. More importantly, it reflects my ability to identify opportunities, translate ideas into working solutions with AI, and create resources from which others can evaluate and learn. Please note any and all company-specific content is fictitious, and meant only to illustrate the usage of the framework.
+> 
+> This repository is shared for portfolio and evaluation purposes and is not licensed for reuse. Please see the LICENSE file for details.
+
+
 # first-marketer-os
 
 A portable marketing operating system for first marketers at B2B companies — from discovery to strategy to execution, without starting from scratch.
@@ -65,10 +76,3 @@ Built by a serial first marketer, for first marketers. Originally created with a
 *This is a living system. Frameworks get updated as you learn. Use Git commit messages as your version log.*
 
 ---
-## Repository Notice
-
-This project demonstrates how I use AI as a multiplier in my marketing work. Absolutely not a software developer, I'm using AI to design and build practical tools, automate workflows, extend my finite time and efficiency limitations, and explore new ways of solving real business problems.
-
-The code in this repository is one part of the story. More importantly, it reflects my ability to identify opportunities, translate ideas into working solutions with AI, and create resources from which others can evaluate and learn. Please note any and all company-specific content is fictitious, and meant only to illustrate the usage of the framework.  
-
-This repository is shared for portfolio and evaluation purposes and is not licensed for reuse. Please see the LICENSE file for details.
